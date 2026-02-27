@@ -1,0 +1,1781 @@
+=== EXTRACTED LONG STRINGS ===
+react.transitional.element
+Objects are not valid as a React child (found: 
+). If you meant to render a collection of children, use an array instead.
+React.Children.only expected to receive a single React element child.
+The argument must be a React element, but you passed 
+forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
+https://react.dev/errors/
+Minified React error #
+ for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+react.memo_cache_sentinel
+react.client.reference
+DetermineComponentFrameRoot
+^[:A-Z_a-z\\u00C0-\\u00D6\\u00D8-\\u00F6\\u00F8-\\u02FF\\u0370-\\u037D\\u037F-\\u1FFF\\u200C-\\u200D\\u2070-\\u218F\\u2C00-\\u2FEF\\u3001-\\uD7FF\\uF900-\\uFDCF\\uFDF0-\\uFFFD][:A-Z_a-z\\u00C0-\\u00D6\\u00D8-\\u00F6\\u00F8-\\u02FF\\u0370-\\u037D\\u037F-\\u1FFF\\u200C-\\u200D\\u2070-\\u218F\\u2C00-\\u2FEF\\u3001-\\uD7FF\\uF900-\\uFDCF\\uFDF0-\\uFFFD\\-.0-9\\u00B7\\u0300-\\u036F\\u203F-\\u2040]*$
++a.charCodeAt(0).toString(16)+
+?n.type=I:n.removeAttribute(
+||n.value!=a)&&(n.value=
+),a!=null?jn(n,I,Ut(a)):u!=null?jn(n,I,Ut(u)):d!=null&&n.removeAttribute(
+),v==null&&b!=null&&(n.defaultChecked=!!b),v!=null&&(n.checked=v&&typeof v!=
+),H!=null&&typeof H!=
++Ut(H):n.removeAttribute(
+&&(n.type=b),a!=null||u!=null){if(!(b!==
+||a!=null)){Ln(n);return}u=u!=null?
++Ut(a):u,H||a===n.value||(n.value=a),n.defaultValue=a}d=d??v,d=typeof d!=
+&&!!d,n.checked=H?n.checked:!!d,n.defaultChecked=!!d,I!=null&&typeof I!=
+&&rt(n.ownerDocument)===n||n.defaultValue===
++u[v]]=!0;for(u=0;u<n.length;u++)v=a.hasOwnProperty(
++n[u].value),n[u].selected!==v&&(n[u].selected=v),v&&d&&(n[u].defaultSelected=!0)}else{for(u=
++Ut(a),a!==n.value&&(n.value=a),u==null)){n.defaultValue!==a&&(n.defaultValue=a);return}n.defaultValue=u!=null?
+),a=u}u=Ut(a),n.defaultValue=u,d=n.textContent,d===u&&d!==
+)===0;u==null||typeof u==
+:d?n.setProperty(a,u):typeof u!=
+||u===0||Oi.has(a)?a===
+)throw Error(i(62));if(n=n.style,u!=null){for(var d in u)!u.hasOwnProperty(d)||a!=null&&a.hasOwnProperty(d)||(d.indexOf(
+)===0?n.setProperty(d,
+)===-1)return!1;switch(n){case
+:return!1;default:return!0}}var Fm=new Map([[
+:if(vi(n,u.value,u.defaultValue,u.defaultValue,u.checked,u.defaultChecked,u.type,u.name),a=u.name,u.type===
+&&a!=null){for(u=n;u.parentNode;)u=u.parentNode;for(u=u.querySelectorAll('input[name=
+]'),a=0;a<u.length;a++){var d=u[a];if(d!==n&&d.form===n.form){var v=d[Ai]||null;if(!v)throw Error(i(90));vi(d,v.value,v.defaultValue,v.defaultValue,v.checked,v.defaultChecked,v.type,v.name)}}for(a=0;a<u.length;a++)d=u[a],d.form===n.form&&Gt(d)}break e;case
+:En(n,u.value,u.defaultValue);break e;case
+:(d=!d.disabled)||(n=n.type,d=!(n===
+||typeof window.document>
+||typeof window.document.createElement>
+),ud=!1;if(Xa)try{var Il={};Object.defineProperty(Il,
+,Il,Il),window.removeEventListener(
+in n?n.movementX:(n!==Ol&&(Ol&&n.type===
+in n?n.clipboardData:window.clipboardData}}),Wm=os(ty),qc=_({},to,{data:0}),df=os(qc),pf={Esc:
+:String.fromCharCode(n)):n.type===
+in n?-n.wheelDelta:0},deltaZ:0,deltaMode:0}),Km=os(Xi),Jm=_({},to,{newState:0,oldState:0}),$m=os(Jm),eg=[9,13,27,32],Yo=Xa&&
+in window,Pl=null;Xa&&
+in document&&(Pl=document.documentMode);var xf=Xa&&
+in window&&!Pl,gd=Xa&&(!Yo||Pl&&8<Pl&&11>=Pl),tg=
+||!Yo&&vf(n,a)?(n=Gc(),Xo=uf=Vs=null,Zo=!1,n):null;switch(n){case
+),0<a.length&&(u=new Wc(
+in document;if(!Sd){var Md=document.createElement(
+),Sd=typeof Md.oninput==
+?(aa(),no=a,Qo=u,no.attachEvent(
+||n===null||typeof a!=
+||n.contentEditable===
+in d&&Ad(d)?d={start:d.selectionStart,end:d.selectionEnd}:(d=(d.ownerDocument&&d.ownerDocument.defaultView||window).getSelection(),d={anchorNode:d.anchorNode,anchorOffset:d.anchorOffset,focusNode:d.focusNode,focusOffset:d.focusOffset}),Vl&&Fl(Vl,d)||(Vl=d,d=o0(Za,
+),0<d.length&&(a=new Wc(
++a,u}var Ko={animationend:es(
+),animationiteration:es(
+),transitionstart:es(
+),transitioncancel:es(
+)},Jc={},wd={};Xa&&(wd=document.createElement(
+in window||(delete Ko.animationend.animation,delete Ko.animationiteration.animation,delete Ko.animationstart.animation),
+&&typeof window.ErrorEvent==
+){var a=new window.ErrorEvent(
+,{bubbles:!0,cancelable:!0,message:typeof n==
+&&n!==null&&typeof n.message==
+?String(n.message):String(n),error:n});if(!window.dispatchEvent(a))return}else if(typeof process==
+&&typeof process.emit==
+)Mf(n)&&(I=1);else if(typeof n==
+)I=PA(n,u,Pe.current)?26:n===
+&&n!==null)switch(n.$$typeof){case L:I=10;break e;case D:I=9;break e;case U:I=11;break e;case G:I=14;break e;case X:I=16,d=null;break e}I=29,u=Error(i(130,n===null?
+:for(u=0;u<Sa.length;u++)gn(Sa[u],a);break;case
+,a),Da(a,d.value,d.defaultValue,d.checked,d.defaultChecked,d.type,d.name,!0);break;case
+,a),wi(a,d.value,d.defaultValue,d.children)}u=d.children,typeof u!=
++u||d.suppressHydrationWarning===!0||hb(a.textContent,u)?(d.popover!=null&&(gn(
+,a)),d.onScroll!=null&&gn(
+,a),d.onScrollEnd!=null&&gn(
+&&a!==null&&typeof a.then==
+:throw n=a.reason,nl(n),n;default:if(typeof a.status==
+)a.then(Tr,Tr);else{if(n=Vt,n!==null&&100<n.shellSuspendCounter)throw Error(i(482));n=a,n.status=
+,v.reason=d}})}switch(a.status){case
++Object.keys(a).join(
++te,oe.mode,pe),te.return=oe,te;if(typeof te==
++pe,De);if(typeof pe==
++De,Dt);if(typeof De==
+&&pe!==null&&pe.type===R&&pe.key===null&&(pe=pe.props.children),typeof pe==
+&&pe!==null){switch(pe.$$typeof){case M:e:{for(var Dt=pe.key;te!==null;){if(te.key===Dt){if(Dt=pe.type,Dt===R){if(te.tag===7){u(oe,te.sibling),De=v(te,pe.props.children),De.return=oe,oe=De;break e}}else if(te.elementType===Dt||typeof Dt==
+){ze=St.call(Gn,ze,ve);break e}ze=St;break e;case 3:St.flags=St.flags&-65537|128;case 0:if(St=Pt.payload,ve=typeof St==
+||a.memoizedProps.revealOrder===
+?v:null}if(v){kn=pr(v.nextSibling),d=v.data===
+&&a.componentWillReceiveProps(u,d),typeof a.UNSAFE_componentWillReceiveProps==
+in a){u={};for(var d in a)d!==
+&&(pi===null?pi=new Set([this]):pi.add(this));var H=d.stack;this.componentDidCatch(d.value,{componentStack:H!==null?H:
+||b!==null&&typeof b.componentDidCatch==
+in d){var I={};for(var H in d)H!==
+&&I!==null&&(b=Bt(I)),b=new u(d,b),a.memoizedState=b.state!==null&&b.state!==void 0?b.state:null,b.updater=pu,a.stateNode=b,b._reactInternals=a,b=a.stateNode,b.props=d,b.state=a.memoizedState,b.refs={},lu(a),I=u.contextType,b.context=typeof I==
+&&I!==null?Bt(I):so,b.state=a.memoizedState,I=u.getDerivedStateFromProps,typeof I==
+&&(Xf(a,u,I,d),b.state=a.memoizedState),typeof u.getDerivedStateFromProps==
+||typeof b.getSnapshotBeforeUpdate==
+||typeof b.UNSAFE_componentWillMount!=
+&&typeof b.componentWillMount!=
+||(I=b.state,typeof b.componentWillMount==
+&&b.componentWillMount(),typeof b.UNSAFE_componentWillMount==
+&&b.UNSAFE_componentWillMount(),I!==b.state&&pu.enqueueReplaceState(b,b.state,null),Jl(a,d,b,v),cu(),b.state=a.memoizedState),typeof b.componentDidMount==
+&&(a.flags|=4194308),d=!0}else if(n===null){b=a.stateNode;var H=a.memoizedProps,J=xo(u,H);b.props=J;var me=b.context,Ce=u.contextType;I=so,typeof Ce==
+&&Ce!==null&&(I=Bt(Ce));var ze=u.getDerivedStateFromProps;Ce=typeof ze==
+,H=a.pendingProps!==H,Ce||typeof b.UNSAFE_componentWillReceiveProps!=
+&&typeof b.componentWillReceiveProps!=
+||(H||me!==I)&&cp(a,b,d,I),us=!1;var ve=a.memoizedState;b.state=ve,Jl(a,d,b,v),cu(),me=a.memoizedState,H||ve!==me||us?(typeof ze==
+&&(Xf(a,u,ze,d),me=a.memoizedState),(J=us||lp(a,u,J,d,ve,me,I))?(Ce||typeof b.UNSAFE_componentWillMount!=
+||(typeof b.componentWillMount==
+&&b.UNSAFE_componentWillMount()),typeof b.componentDidMount==
+&&(a.flags|=4194308)):(typeof b.componentDidMount==
+&&(a.flags|=4194308),a.memoizedProps=d,a.memoizedState=me),b.props=d,b.state=me,b.context=I,d=J):(typeof b.componentDidMount==
+&&(a.flags|=4194308),d=!1)}else{b=a.stateNode,zd(n,a),I=a.memoizedProps,Ce=xo(u,I),b.props=Ce,ze=a.pendingProps,ve=b.context,me=u.contextType,J=so,typeof me==
+&&me!==null&&(J=Bt(me)),H=u.getDerivedStateFromProps,(me=typeof H==
+)||typeof b.UNSAFE_componentWillReceiveProps!=
+||(I!==ze||ve!==J)&&cp(a,b,d,J),us=!1,ve=a.memoizedState,b.state=ve,Jl(a,d,b,v),cu();var Te=a.memoizedState;I!==ze||ve!==Te||us||n!==null&&n.dependencies!==null&&su(n.dependencies)?(typeof H==
+&&(Xf(a,u,H,d),Te=a.memoizedState),(Ce=us||lp(a,u,Ce,d,ve,Te,J)||n!==null&&n.dependencies!==null&&su(n.dependencies))?(me||typeof b.UNSAFE_componentWillUpdate!=
+&&typeof b.componentWillUpdate!=
+||(typeof b.componentWillUpdate==
+&&b.componentWillUpdate(d,Te,J),typeof b.UNSAFE_componentWillUpdate==
+&&b.UNSAFE_componentWillUpdate(d,Te,J)),typeof b.componentDidUpdate==
+&&(a.flags|=4),typeof b.getSnapshotBeforeUpdate==
+&&(a.flags|=1024)):(typeof b.componentDidUpdate!=
+||I===n.memoizedProps&&ve===n.memoizedState||(a.flags|=4),typeof b.getSnapshotBeforeUpdate!=
+||I===n.memoizedProps&&ve===n.memoizedState||(a.flags|=1024),a.memoizedProps=d,a.memoizedState=Te),b.props=d,b.state=Te,b.context=J,d=Ce):(typeof b.componentDidUpdate!=
+,children:H},v),d=ao(d,v,u,null),H.return=a,d.return=a,H.sibling=d,a.child=H,d=a.child,d.memoizedState=ts(u),d.childLanes=$f(n,I,u),a.memoizedState=mp,ar(null,d)):(Lr(a),gu(a,H))}var J=n.memoizedState;if(J!==null&&(H=J.dehydrated,H!==null)){if(b)a.flags&256?(Lr(a),a.flags&=-257,a=gp(n,a,u)):a.memoizedState!==null?(Ms(),a.child=n.child,a.flags|=128,a=null):(Ms(),H=d.fallback,v=a.mode,d=eh({mode:
+,children:d.children},v),H=ao(H,v,u,null),H.flags|=2,d.return=a,H.return=a,d.sibling=H,a.child=d,Dr(a,n.child,null,u),d=a.child,d.memoizedState=ts(u),d.childLanes=$f(n,I,u),a.memoizedState=mp,a=ar(null,d));else if(Lr(a),My(H)){if(I=H.nextSibling&&H.nextSibling.dataset,I)var me=I.dgst;I=me,d=Error(i(419)),d.stack=
+,children:d.children}),d.subtreeFlags=J.subtreeFlags&65011712,me!==null?H=ys(me,H):(H=ao(H,v,u,null),H.flags|=2),H.return=a,d.return=a,d.sibling=H,a.child=d,ar(null,d),d=a.child,H=n.child.memoizedState,H===null?H=ts(u):(v=H.cachePool,v!==null?(J=_i._currentValue,v=v.parent!==J?{parent:J,pool:J}:v):v=Od(),H={baseLanes:H.baseLanes|u,cachePool:v}),d.memoizedState=H,d.childLanes=$f(n,I,u),a.memoizedState=mp,ar(n.child,d)):(Lr(a),u=n.child,n=u.sibling,u=ys(u,{mode:
+:for(u=a.child,v=null;u!==null;)n=u.alternate,n!==null&&Ws(n)===null&&(v=u),u=u.sibling;u=v,u===null?(v=a.child,a.child=null):(v=u.sibling,u.sibling=null),fl(a,!1,v,u,b,d);break;case
+:for(u=null,v=a.child,a.child=null;v!==null;){if(n=v.alternate,n!==null&&Ws(n)===null){a.child=v;break}n=v.sibling,v.sibling=u,u=v,v=n}fl(a,!0,u,null,b,d);break;case
+)Mf(n)?(d=xo(n,d),a.tag=1,a=Jf(null,a,n,d,u)):(a.tag=0,a=sc(null,a,n,d,u));else{if(n!=null){var v=n.$$typeof;if(v===U){a.tag=11,a=pp(null,a,n,d,u);break e}else if(v===G){a.tag=14,a=ll(null,a,n,d,u);break e}}throw a=de(n)||n,Error(i(306,a,
+:a=n.tail;for(var u=null;a!==null;)a.alternate!==null&&(u=a),a=a.sibling;u===null?n.tail=null:u.sibling=null;break;case
+,v);break;case 2:b=I.createElementNS(
+,v);break;default:switch(v){case
+:b=I.createElementNS(
+,b=b.removeChild(b.firstChild);break;case
+,{is:d.is}):I.createElement(
+),d.multiple?b.multiple=!0:d.size&&(b.size=d.size);break;default:b=typeof d.is==
+?I.createElement(v,{is:d.is}):I.createElement(v)}}b[Kn]=a,b[Ai]=d;e:for(I=a.child;I!==null;){if(I.tag===5||I.tag===6)b.appendChild(I.stateNode);else if(I.tag!==4&&I.tag!==27&&I.child!==null){I.child.return=I,I=I.child;continue}if(I===a)break e;for(;I.sibling===null;){if(I.return===null||I.return===a)break e;I=I.return}I.sibling.return=I.return,I=I.sibling}a.stateNode=b;e:switch(gs(b,v,d),v){case
+:d=!!d.autoFocus;break e;case
+)try{d()}catch(v){Mn(n,a,v)}finally{n.refCleanup=null,n=n.alternate,n!=null&&(n.refCleanup=null)}else if(typeof u==
+:u.autoFocus&&d.focus();break e;case
+?u.ownerDocument.body:u).insertBefore(n,a):(a=u.nodeType===9?u.body:u.nodeName===
+in n)var u={start:n.selectionStart,end:n.selectionEnd};else e:{u=(u=n.ownerDocument)&&u.defaultView||window;var d=u.getSelection&&u.getSelection();if(d&&d.rangeCount!==0){u=d.anchorNode;var v=d.anchorOffset,b=d.focusNode;d=d.focusOffset;try{u.nodeType,b.nodeType}catch{u=null;break e}var I=0,H=-1,J=-1,me=0,Ce=0,ze=n,ve=null;t:for(;;){for(var Te;ze!==u||v!==0&&ze.nodeType!==3||(H=I+v),ze!==b||d!==0&&ze.nodeType!==3||(J=I+d),ze.nodeType===3&&(I+=ze.nodeValue.length),(Te=ze.firstChild)!==null;)ve=ze,ze=Te;for(;;){if(ze===n)break t;if(ve===u&&++me===v&&(H=I),ve===b&&++Ce===d&&(J=I),(Te=ze.nextSibling)!==null)break;ze=ve,ve=ze.parentNode}ze=Te}u=H===-1||J===-1?null:{start:H,end:J}}else u=null}u=u||{start:0,end:0}}else u=null;for(vy={focusedElem:n,selectionRange:u},m0=!1,Vi=a;Vi!==null;)if(a=Vi,n=a.child,(a.subtreeFlags&1028)!==0&&n!==null)n.return=a,Vi=n;else for(;Vi!==null;){switch(a=Vi,b=a.alternate,n=a.flags,a.tag){case 0:if((n&4)!==0&&(n=a.updateQueue,n=n!==null?n.events:null,n!==null))for(u=0;u<n.length;u++)v=n[u],v.ref.impl=v.nextImpl;break;case 11:case 15:break;case 1:if((n&1024)!==0&&b!==null){n=void 0,u=a,v=b.memoizedProps,b=b.memoizedState,d=u.stateNode;try{var St=xo(u.type,v);n=d.getSnapshotBeforeUpdate(St,b),d.__reactInternalSnapshotBeforeUpdate=n}catch(Pt){Mn(u,u.return,Pt)}}break;case 3:if((n&1024)!==0){if(n=a.stateNode.containerInfo,u=n.nodeType,u===9)by(n);else if(u===1)switch(n.nodeName){case
+:by(n);break;default:n.textContent=
+)try{Xe.onCommitFiberUnmount(ke,u)}catch{}switch(u.tag){case 26:Vn||Yi(u,a),xa(n,a,u),u.memoizedState?u.memoizedState.count--:u.stateNode&&(u=u.stateNode,u.parentNode.removeChild(u));break;case 27:Vn||Yi(u,a);var d=Rn,v=ns;pc(u.type)&&(Rn=u.stateNode,ns=!1),xa(n,a,u),Tp(u.stateNode),Rn=d,ns=v;break;case 5:Vn||Yi(u,a);case 6:if(d=Rn,v=ns,Rn=null,xa(n,a,u),Rn=d,ns=v,Rn!==null)if(ns)try{(Rn.nodeType===9?Rn.body:Rn.nodeName===
+?Rn.ownerDocument.body:Rn).removeChild(u.stateNode)}catch(b){Mn(u,a,b)}else try{Rn.removeChild(u.stateNode)}catch(b){Mn(u,a,b)}break;case 18:Rn!==null&&(ns?(n=Rn,vb(n.nodeType===9?n.body:n.nodeName===
+?n.ownerDocument.body:n,u.stateNode),hh(n)):vb(Rn,u.stateNode));break;case 4:d=Rn,v=ns,Rn=u.stateNode.containerInfo,ns=!0,xa(n,a,u),Rn=d,ns=v;break;case 0:case 11:case 14:case 15:qi(2,u,a),Vn||qi(4,u,a),xa(n,a,u);break;case 1:Vn||(Yi(u,a),d=u.stateNode,typeof d.componentWillUnmount==
+:b=v.getElementsByTagName(
+)[0],(!b||b[Ra]||b[Kn]||b.namespaceURI===
+))&&(b=v.createElement(d),v.head.insertBefore(b,v.querySelector(
+))),gs(b,d,u),b[Kn]=n,V(b),d=b;break e;case
+));if(I){for(var H=0;H<I.length;H++)if(b=I[H],b.getAttribute(
+)===(u.href==null||u.href===
+?null:u.href)&&b.getAttribute(
+)===(u.rel==null?null:u.rel)&&b.getAttribute(
+)===(u.title==null?null:u.title)&&b.getAttribute(
+)===(u.crossOrigin==null?null:u.crossOrigin)){I.splice(H,1);break t}}b=v.createElement(d),gs(b,d,u),v.head.appendChild(b);break;case
+,v).get(d+(u.content||
+))){for(H=0;H<I.length;H++)if(b=I[H],b.getAttribute(
+)===(u.content==null?null:
++u.content)&&b.getAttribute(
+)===(u.name==null?null:u.name)&&b.getAttribute(
+)===(u.property==null?null:u.property)&&b.getAttribute(
+)===(u.httpEquiv==null?null:u.httpEquiv)&&b.getAttribute(
+)===(u.charSet==null?null:u.charSet)){I.splice(H,1);break t}}b=v.createElement(d),gs(b,d,u),v.head.appendChild(b);break;default:throw Error(i(468,d))}b[Kn]=n,V(b),d=b}n.stateNode=d}else Rb(v,n.type,n.stateNode);else n.stateNode=Cb(v,d,n.memoizedProps);else b!==d?(b===null?u.stateNode!==null&&(u=u.stateNode,u.parentNode.removeChild(u)):b.count--,d===null?Rb(v,n.type,n.stateNode):Cb(v,d,n.memoizedProps)):d===null&&n.stateNode!==null&&Ri(n,n.memoizedProps,u.memoizedProps)}break;case 27:Di(a,n),Ii(n),d&512&&(Vn||u===null||Yi(u,u.return)),u!==null&&d&4&&Ri(n,n.memoizedProps,u.memoizedProps);break;case 5:if(Di(a,n),Ii(n),d&512&&(Vn||u===null||Yi(u,u.return)),n.flags&32){v=n.stateNode;try{yi(v,
+)}catch(St){Mn(n,n.return,St)}}d&4&&n.stateNode!=null&&(v=n.memoizedProps,Ri(n,v,u!==null?u.memoizedProps:v)),d&1024&&(Ua=!0);break;case 6:if(Di(a,n),Ii(n),d&4){if(n.stateNode===null)throw Error(i(162));d=n.memoizedProps,u=n.stateNode;try{u.nodeValue=d}catch(St){Mn(n,n.return,St)}}break;case 3:if(f0=null,v=va,va=c0(a.containerInfo),Di(a,n),va=v,Ii(n),d&4&&u!==null&&u.memoizedState.isDehydrated)try{hh(a.containerInfo)}catch(St){Mn(n,n.return,St)}Ua&&(Ua=!1,ah(n));break;case 4:d=va,va=c0(n.stateNode.containerInfo),Di(a,n),Ii(n),va=d;break;case 12:Di(a,n),Ii(n);break;case 31:Di(a,n),Ii(n),d&4&&(d=n.updateQueue,d!==null&&(n.updateQueue=null,Pr(n,d)));break;case 13:Di(a,n),Ii(n),n.child.flags&8192&&n.memoizedState!==null!=(u!==null&&u.memoizedState!==null)&&(rc=z()),d&4&&(d=n.updateQueue,d!==null&&(n.updateQueue=null,Pr(n,d)));break;case 22:v=n.memoizedState!==null;var J=u!==null&&u.memoizedState!==null,me=ga,Ce=Vn;if(ga=me||v,Vn=Ce||J,Di(a,n),Vn=Ce,ga=me,Ii(n),d&8192)e:for(a=n.stateNode,a._visibility=v?a._visibility&-2:a._visibility|1,v&&(u===null||J||ga||Vn||cr(n)),u=null,a=n;;){if(a.tag===5||a.tag===26){if(u===null){J=u=a;try{if(b=J.stateNode,v)I=b.style,typeof I.setProperty==
+;else{H=J.stateNode;var ze=J.memoizedProps.style,ve=ze!=null&&ze.hasOwnProperty(
+)?ze.display:null;H.style.display=ve==null||typeof ve==
++ve).trim()}}catch(St){Mn(J,J.return,St)}}}else if(a.tag===6){if(u===null){J=a;try{J.stateNode.nodeValue=v?
+&&H(I,a.alternate===null?
+in H)H.selectionStart=me,H.selectionEnd=Math.min(Ce,H.value.length);else{var ze=H.ownerDocument||document,ve=ze&&ze.defaultView||window;if(ve.getSelection){var Te=ve.getSelection(),St=H.textContent.length,Pt=Math.min(J.start,St),Gn=J.end===void 0?Pt:Math.min(J.end,St);!Te.extend&&Pt>Gn&&(I=Gn,Gn=Pt,Pt=I);var oe=kl(H,Pt),te=kl(H,Gn);if(oe&&te&&(Te.rangeCount!==1||Te.anchorNode!==oe.node||Te.anchorOffset!==oe.offset||Te.focusNode!==te.node||Te.focusOffset!==te.offset)){var pe=ze.createRange();pe.setStart(oe.node,oe.offset),Te.removeAllRanges(),Pt>Gn?(Te.addRange(pe),Te.extend(te.node,te.offset)):(pe.setEnd(te.node,te.offset),Te.addRange(pe))}}}}for(ze=[],Te=H;Te=Te.parentNode;)Te.nodeType===1&&ze.push({element:Te,left:Te.scrollLeft,top:Te.scrollTop});for(typeof H.focus==
+||typeof d.componentDidCatch==
+&&u&&u.stateNode===v){var b=Ze((v[Ai]||null).action),I=d.submitter;I&&(a=(a=I[Ai]||null)?Ze(a.formAction):I.getAttribute(
+),a!==null&&(b=a,I=null));var H=new Wc(
+&&(H.preventDefault(),J=I?Lt(v,I):new FormData(v),sp(u,{pending:!0,data:J,method:v.method,action:b},b,J))},currentTarget:v}]})}}for(var Ot=0;Ot<eu.length;Ot++){var yn=eu[Ot],Hi=yn.toLowerCase(),Tn=yn[0].toUpperCase()+yn.slice(1);oa(Hi,
+&&(hy.has(u)||dy(u,!1,n),dy(u,!0,n))});var a=n.nodeType===9?n:n.ownerDocument;a===null||a[r0]||(a[r0]=!0,dy(
+:if(jc(u)===0)break e;case
+:if(u.button===2)break e;case
+:Te=Zm;break;case bf:case $c:case Cd:Te=ey;break;case Nd:Te=ny;break;case
+:Te=$m}var Pt=(a&4)!==0,Gn=!Pt&&(n===
+),oe=Pt?ve!==null?ve+
+:null:ve;Pt=[];for(var te=me,pe;te!==null;){var De=te;if(pe=De.stateNode,De=De.tag,De!==5&&De!==26&&De!==27||pe===null||oe===null||(De=Dl(te,oe),De!=null&&Pt.push(Mp(te,De,pe))),Gn)break;te=te.return}0<Pt.length&&(ve=new Te(ve,St,null,u,Ce),ze.push({event:ve,listeners:Pt}))}}if((a&7)===0){e:{if(ve=n===
+,ve&&u!==of&&(St=u.relatedTarget||u.fromElement)&&(Sr(St)||St[Bs]))break e;if((Te||ve)&&(ve=Ce.window===Ce?Ce:(ve=Ce.ownerDocument)?ve.defaultView||ve.parentWindow:window,Te?(St=u.relatedTarget||u.toElement,Te=me,St=St?Sr(St):null,St!==null&&(Gn=c(St),Pt=St.tag,St!==Gn||Pt!==5&&Pt!==27&&Pt!==6)&&(St=null)):(Te=null,St=me),Te!==St)){if(Pt=fd,De=
+),Gn=Te==null?ve:$r(Te),pe=St==null?ve:$r(St),ve=new Pt(De,te+
+,Te,u,Ce),ve.target=Gn,ve.relatedTarget=pe,De=null,Sr(Ce)===me&&(Pt=new Pt(oe,te+
+,St,u,Ce),Pt.target=pe,Pt.relatedTarget=Gn,De=Pt),Gn=De,Te&&St)t:{for(Pt=mA,oe=Te,te=St,pe=0,De=oe;De;De=Pt(De))pe++;De=0;for(var Dt=te;Dt;Dt=Pt(Dt))De++;for(;0<pe-De;)oe=Pt(oe),pe--;for(;0<De-pe;)te=Pt(te),De--;for(;pe--;){if(oe===te||te!==null&&oe===te.alternate){Pt=oe;break t}oe=Pt(oe),te=Pt(te)}Pt=null}else Pt=null;Te!==null&&ub(ze,ve,Te,Pt,!1),St!==null&&Gn!==null&&ub(ze,Gn,St,Pt,!0)}}e:{if(ve=me?$r(me):window,Te=ve.nodeName&&ve.nodeName.toLowerCase(),Te===
+)var Cn=bd;else if(_d(ve))if(qa)Cn=rg;else{Cn=Td;var Tt=sg}else Te=ve.nodeName,!Te||Te.toLowerCase()!==
+?me&&sa(me.elementType)&&(Cn=bd):Cn=ag;if(Cn&&(Cn=Cn(n,me))){yf(ze,Cn,u,Ce);break e}Tt&&Tt(n,ve,me),n===
+&&me.memoizedProps.value!=null&&jn(ve,
+,ve.value)}switch(Tt=me?$r(me):window,n){case
+:(_d(Tt)||Tt.contentEditable===
+)&&(Ya=Tt,Za=me,Vl=null);break;case
+:Vl=Za=Ya=null;break;case
+:_f=!1,Hl(ze,u,Ce);break;case
+:Hl(ze,u,Ce)}var sn;if(Yo)e:{switch(n){case
+;break e}_n=void 0}else Zo?vf(n,u)&&(_n=
+&&u.keyCode===229&&(_n=
+);_n&&(gd&&u.locale!==
+&&Zo&&(sn=Gc()):(Vs=Ce,uf=
+in Vs?Vs.value:Vs.textContent,Zo=!0)),Tt=o0(me,_n),0<Tt.length&&(_n=new df(_n,n,null,u,Ce),ze.push({event:_n,listeners:Tt}),sn?_n.data=sn:(sn=xd(u),sn!==null&&(_n.data=sn)))),(sn=xf?ng(n,u):vd(n,u))&&(_n=o0(me,
+),0<_n.length&&(Tt=new df(
++n).replace(gA,`
+`).replace(xA,
+||yi(n,d):(typeof d==
+:Ct(n,u,d);break;case
+:jo(n,d,b);break;case
+)){n.removeAttribute(u);break}if(d==null||typeof d==
+){n.removeAttribute(u);break}d=Hc(
++d),n.setAttribute(u,d);break;case
+);break}else typeof b==
+,v.name,v,null),Hn(n,a,
+,v.formEncType,v,null),Hn(n,a,
+,v.formMethod,v,null),Hn(n,a,
+,v.formTarget,v,null)):(Hn(n,a,
+,v.encType,v,null),Hn(n,a,
+,v.method,v,null),Hn(n,a,
+,v.target,v,null)));if(d==null||typeof d==
+:d!=null&&(n.onclick=Tr);break;case
+:if(d!=null){if(typeof d!=
+in d))throw Error(i(61));if(u=d.__html,u!=null){if(v.children!=null)throw Error(i(60));n.innerHTML=u}}break;case
+:n.multiple=d&&typeof d!=
+:n.muted=d&&typeof d!=
+:if(d==null||typeof d==
++d),n.setAttributeNS(
++d):n.removeAttribute(u);break;case
+):n.removeAttribute(u);break;case
+:d===!0?n.setAttribute(u,
+):d!==!1&&d!=null&&typeof d!=
+?n.setAttribute(u,d):n.removeAttribute(u);break;case
+&&!isNaN(d)&&1<=d?n.setAttribute(u,d):n.removeAttribute(u);break;case
+||isNaN(d)?n.removeAttribute(u):n.setAttribute(u,d);break;case
+:break;default:(!(2<u.length)||u[0]!==
+:break;default:if(!ye.hasOwnProperty(u))e:{if(u[0]===
+),a=u.slice(2,v?u.length-7:void 0),b=n[Ai]||null,b=b!=null?b[u]:null,typeof b==
+&&n.removeEventListener(a,b,v),typeof d==
+&&b!==null&&(u in n?n[u]=null:n.hasAttribute(u)&&n.removeAttribute(u)),n.addEventListener(a,d,v);break e}u in n?n[u]=d:d===!0?n.setAttribute(u,
+,n);var d=!1,v=!1,b;for(b in u)if(u.hasOwnProperty(b)){var I=u[b];if(I!=null)switch(b){case
+:throw Error(i(137,a));default:Hn(n,a,b,I,u,null)}}v&&Hn(n,a,
+,u.srcSet,u,null),d&&Hn(n,a,
+,u.src,u,null);return;case
+,n);var H=b=I=v=null,J=null,me=null;for(d in u)if(u.hasOwnProperty(d)){var Ce=u[d];if(Ce!=null)switch(d){case
+:if(Ce!=null)throw Error(i(137,a));break;default:Hn(n,a,d,Ce,u,null)}}Da(n,b,H,J,me,I,v,!1);return;case
+,n),d=I=b=null;for(v in u)if(u.hasOwnProperty(v)&&(H=u[v],H!=null))switch(v){case
+:d=H;default:Hn(n,a,v,H,u,null)}a=b,u=I,n.multiple=!!d,a!=null?rs(n,!!d,a,!1):u!=null&&rs(n,!!d,u,!0);return;case
+,n),b=v=d=null;for(I in u)if(u.hasOwnProperty(I)&&(H=u[I],H!=null))switch(I){case
+:if(H!=null)throw Error(i(91));break;default:Hn(n,a,I,H,u,null)}wi(n,d,v,b);return;case
+:for(J in u)u.hasOwnProperty(J)&&(d=u[J],d!=null)&&(J===
+?n.selected=d&&typeof d!=
+:Hn(n,a,J,d,u,null));return;case
+:for(d=0;d<Sa.length;d++)gn(Sa[d],n);break;case
+:for(me in u)if(u.hasOwnProperty(me)&&(d=u[me],d!=null))switch(me){case
+:var v=null,b=null,I=null,H=null,J=null,me=null,Ce=null;for(Te in u){var ze=u[Te];if(u.hasOwnProperty(Te)&&ze!=null)switch(Te){case
+:J=ze;default:d.hasOwnProperty(Te)||Hn(n,a,Te,null,d,ze)}}for(var ve in d){var Te=d[ve];if(ze=u[ve],d.hasOwnProperty(ve)&&(Te!=null||ze!=null))switch(ve){case
+:if(Te!=null)throw Error(i(137,a));break;default:Te!==ze&&Hn(n,a,ve,Te,d,ze)}}vi(n,I,H,J,me,Ce,b,v);return;case
+:Te=I=H=ve=null;for(b in u)if(J=u[b],u.hasOwnProperty(b)&&J!=null)switch(b){case
+:Te=J;default:d.hasOwnProperty(b)||Hn(n,a,b,null,d,J)}for(v in d)if(b=d[v],J=u[v],d.hasOwnProperty(v)&&(b!=null||J!=null))switch(v){case
+:I=b;default:b!==J&&Hn(n,a,v,b,d,J)}a=H,u=I,d=Te,ve!=null?rs(n,!!u,ve,!1):!!d!=!!u&&(a!=null?rs(n,!!u,a,!0):rs(n,!!u,u?[]:
+:Te=ve=null;for(H in u)if(v=u[H],u.hasOwnProperty(H)&&v!=null&&!d.hasOwnProperty(H))switch(H){case
+:break;default:Hn(n,a,H,null,d,v)}for(I in d)if(v=d[I],b=u[I],d.hasOwnProperty(I)&&(v!=null||b!=null))switch(I){case
+:if(v!=null)throw Error(i(91));break;default:v!==b&&Hn(n,a,I,v,d,b)}En(n,ve,Te);return;case
+:for(var St in u)ve=u[St],u.hasOwnProperty(St)&&ve!=null&&!d.hasOwnProperty(St)&&(St===
+?n.selected=!1:Hn(n,a,St,null,d,ve));for(J in d)ve=d[J],Te=u[J],d.hasOwnProperty(J)&&ve!==Te&&(ve!=null||Te!=null)&&(J===
+?n.selected=ve&&typeof ve!=
+:Hn(n,a,J,ve,d,Te));return;case
+:for(var Pt in u)ve=u[Pt],u.hasOwnProperty(Pt)&&ve!=null&&!d.hasOwnProperty(Pt)&&Hn(n,a,Pt,null,d,ve);for(me in d)if(ve=d[me],Te=u[me],d.hasOwnProperty(me)&&ve!==Te&&(ve!=null||Te!=null))switch(me){case
+){for(var n=0,a=0,u=performance.getEntriesByType(
+||typeof a.children==
+||typeof a.dangerouslySetInnerHTML==
+?n===_y?!1:(_y=n,!0):(_y=null,!1)}var gb=typeof setTimeout==
+?setTimeout:void 0,bA=typeof clearTimeout==
+?clearTimeout:void 0,xb=typeof Promise==
+?Promise:void 0,SA=typeof queueMicrotask==
+?queueMicrotask:typeof xb<
+){if(d===0){n.removeChild(v),hh(a);return}d--}else if(u===
+)Tp(n.ownerDocument.documentElement);else if(u===
+){u=n.ownerDocument.head,Tp(u);for(var b=u.firstChild;b;){var I=b.nextSibling,H=b.nodeName;b[Ra]||H===
+&&b.rel.toLowerCase()===
+||u.removeChild(b),b=I}}else u===
+):(u.style.display=u._stashedDisplay||
+)):u.nodeType===3&&(a?(u._stashedText=u.nodeValue,u.nodeValue=
+):u.nodeValue=u._stashedText||
+),d&&d.nodeType===8)if(u=d.data,u===
+){if(n===0)break;n--}else u!==
+:by(u),br(u);continue;case
+:if(u.rel.toLowerCase()===
+))break}else if(d){if(!n[Ra])switch(a){case
+:if(b=n.getAttribute(
+))break;if(b!==v.rel||n.getAttribute(
+)!==(v.href==null||v.href===
+?null:v.href)||n.getAttribute(
+)!==(v.crossOrigin==null?null:v.crossOrigin)||n.getAttribute(
+),(b!==(v.src==null?null:v.src)||n.getAttribute(
+)!==(v.type==null?null:v.type)||n.getAttribute(
+)!==(v.crossOrigin==null?null:v.crossOrigin))&&b&&n.hasAttribute(
+){var b=v.name==null?null:
+&&n.ownerDocument.readyState!==
+)n._reactRetry=a;else if(n.data!==
+,d)};u.addEventListener(
+?Wg(a):yl.r(n)}var ch=typeof document>
+&&a){var v=zt(a);v='link[rel=
+]'),Tb.has(v)||(Tb.add(v),n={rel:n,crossOrigin:u,href:a},d.querySelector(v)===null&&(a=d.createElement(
+&&u&&u.imageSrcSet?(v+='[imagesrcset=
+]',typeof u.imageSizes==
+]';var b=v;switch(a){case
+:b=fh(n)}mr.has(b)||(n=_({rel:
+&&u&&u.imageSrcSet?void 0:n,as:a},u),mr.set(b,n),d.querySelector(v)!==null||a===
+&&d.querySelector(Ep(b))||a===
+&&d.querySelector(Ap(b))||(a=d.createElement(
+]',b=v;switch(d){case
+:b=fh(n)}if(!mr.has(b)&&(n=_({rel:
+,href:n},a),mr.set(b,n),u.querySelector(v)===null)){switch(d){case
+:if(u.querySelector(Ap(b)))return}d=u.createElement(
+;var I=v.get(b);if(!I){var H={loading:0,preload:null};if(I=d.querySelector(Ep(b)))H.loading=5;else{n=_({rel:
+:a},u),(u=mr.get(b))&&Ey(n,u);var J=I=d.createElement(
+,n),u.head.appendChild(b)),b={type:
+},a),(a=mr.get(v))&&Ay(n,a),b=u.createElement(
+?(a=uh(u.href),u=Wa(v).hoistableStyles,d=u.get(a),d||(d={type:
+,instance:null,count:0,state:null},u.set(a,d)),d):{type:
+,instance:null,count:0,state:null};case
+&&typeof u.precedence==
+){n=uh(u.href);var b=Wa(v).hoistableStyles,I=b.get(n);if(I||(v=v.ownerDocument||v,I={type:
+,instance:null,count:0,state:{loading:0,preload:null}},b.set(n,I),(b=v.querySelector(Ep(n)))&&!b._p&&(I.instance=b,I.state.loading=5),mr.has(n)||(u={rel:
+,href:u.href,crossOrigin:u.crossOrigin,integrity:u.integrity,media:u.media,hrefLang:u.hrefLang,referrerPolicy:u.referrerPolicy},mr.set(n,u),b||zA(v,n,u,I.state))),a&&d===null)throw Error(i(528,
+?(a=fh(u),u=Wa(v).hoistableScripts,d=u.get(a),d||(d={type:
+)?d.loading=1:(a=n.createElement(
+),d.preload=a,a.addEventListener(
+:var d=n.querySelector('style[data-href~=
+,v),u0(d,u.precedence,n),a.instance=d;case
+,d),a.state.loading|=4,u0(b,u.precedence,n),a.instance=b;case
+,d),n.head.appendChild(v),a.instance=v);case
+){var I=b.getAttribute(a)||
+:if(typeof a.precedence!=
+?(n=a.disabled,typeof a.precedence==
+:if(a.async&&typeof a.async!=
+&&!a.onLoad&&!a.onError&&a.src&&typeof a.src==
+||matchMedia(d.media).matches!==!1)&&(u.state.loading&4)===0){if(u.instance===null){var v=uh(d.href),b=a.querySelector(Ep(v));if(b){a=b._p,a!==null&&typeof a==
+&&(n.count++,n=h0.bind(n),a.then(n,n)),u.state.loading|=4,u.instance=b,V(b);return}b=a.ownerDocument||a,d=wb(d),(v=mr.get(v))&&Ey(d,v),b=b.createElement(
+,d),u.instance=b}n.stylesheets===null&&(n.stylesheets=new Map),n.stylesheets.set(u,a),(a=u.state.preload)&&(u.state.loading&3)===0&&(n.count++,u=h0.bind(n),a.addEventListener(
+,u),a.addEventListener(
+),b=0;b<v.length;b++){var I=v[b];(I.nodeName===
+)&&(u.set(I.dataset.precedence,I),d=I)}d&&u.set(null,d)}v=a.instance,I=v.getAttribute(
+),b=u.get(I)||d,b===d&&u.set(null,v),u.set(I,v),this.count++,d=h0.bind(this),v.addEventListener(
+,d),v.addEventListener(
+:Cp.delete(a.pointerId);break;case
+)I||Hb(u);else if(I){var H=null;if(b&&b.hasAttribute(
+)){if(v=b,I=b[Ai]||null)H=I.formAction;else if(Dy(v)!==null)continue}else H=I.action;typeof H==
+})}}if(typeof navigation==
+,n),navigation.addEventListener(
+,a),navigation.addEventListener(
+,n),navigation.removeEventListener(
+,a),navigation.removeEventListener(
+)throw Error(i(527,jb,
+?Error(i(188)):(n=Object.keys(n).join(
+,rendererPackageName:
+,currentDispatcherRef:Z,reconcilerVersion:
+};if(typeof __REACT_DEVTOOLS_GLOBAL_HOOK__<
+||typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.checkDCE!=
+,leftContent:`REVOITZ 4.0 is the annual technical symposium organized by the Department of Information Technology, Jeppiaar Engineering College. This premier event brings together brilliant minds, innovative thinkers, and technology enthusiasts from across colleges to showcase their technical prowess, creative skills, and problem-solving abilities.
+
+With a perfect blend of technical and non-technical events, REVOITZ 4.0 offers a platform for students to compete, collaborate, and celebrate the spirit of innovation. From intense coding challenges to creative design competitions, from strategic gaming tournaments to investigative tech challenges - REVOITZ 4.0 has it all.
+
+This year's theme draws inspiration from the globally acclaimed series, creating an immersive experience where participants navigate through challenges that test their technical depth, strategic thinking, and survival instincts in the digital realm.
+
+Join us for an unforgettable journey through technology, creativity, and competition!`,rightTitle:
+,rightContent:`The Department of Information Technology at Jeppiaar Engineering College stands as a beacon of excellence in technical education, fostering innovation, research, and holistic development since its inception.
+
+With state-of-the-art infrastructure, dedicated faculty, and industry-aligned curriculum, the department nurtures future-ready IT professionals equipped with cutting-edge skills in software development, data science, artificial intelligence, cybersecurity, and emerging technologies.
+
+Our students consistently excel in hackathons, coding competitions, research publications, and placements at top-tier tech companies. The department emphasizes hands-on learning through well-equipped laboratories, industry collaborations, internships, and technical clubs.
+
+REVOITZ, our flagship annual symposium, exemplifies our commitment to creating platforms that challenge students, encourage innovation, and celebrate technological excellence.`,stats:[]},Pa={sectionTitle:
+},nonTechCard:{title:
+}},eT=[{id:1,playerNumber:
+},problemStatements:[
+],evaluation:[{criteria:
+},coordinators:[{name:
+},{id:2,playerNumber:
+},{id:3,playerNumber:
+},{id:4,playerNumber:
+},{id:5,playerNumber:
+}],tT=[{id:6,playerNumber:
+},{id:7,playerNumber:
+},{id:8,playerNumber:
+},{id:9,playerNumber:
+}],Vy={staffCoordinators:[{name:
+,isHod:!0,designation:
+}],overallCoordinators:[{name:
+}],overallEventCoordinators:[{name:
+,className:`fixed inset-0 z-[9999] flex flex-col items-center justify-center ${i?
+}`,style:{background:
+,opacity:i?0:1,transition:
+,WebkitBackfaceVisibility:
+,perspective:1e3,transform:
+,children:[...Array(h)].map((m,g)=>w.jsx(
+,style:{background:g%2===0?
+,left:`${Math.random()*100}%`,top:`${Math.random()*100}%`,opacity:.3,animation:`pulse ${f?
+} ease-in-out ${g*.15}s infinite`,willChange:
+,perspective:1e3,transform:`${e===0?
+}`,opacity:e===3?0:e===2?.9:1,transition:
+,opacity:e>=1?.5:.3,transition:
+,style:{border:`2px dashed ${e>=1?
+,style:{border:`1px dotted ${e>=1?
+,opacity:e>=2?0:1,transform:e>=2?
+,WebkitFontSmoothing:
+,animation:`pulse ${f?
+} ease-in-out infinite`,willChange:
+,opacity:e>=2?0:1,transition:
+,aw={LEFT:0,MIDDLE:1,RIGHT:2,ROTATE:0,DOLLY:1,PAN:2},rw={ROTATE:0,PAN:1,DOLLY_PAN:2,DOLLY_ROTATE:3},nT=0,G_=1,iT=2,ow=3,sT=0,Vh=1,Qp=2,ju=3,Nl=0,na=1,Io=2,Oo=0,Yu=1,vx=2,j_=3,W_=4,aT=5,Cc=100,rT=101,oT=102,lT=103,cT=104,uT=200,fT=201,hT=202,dT=203,yx=204,_x=205,pT=206,mT=207,gT=208,xT=209,vT=210,yT=211,_T=212,bT=213,ST=214,bx=0,Sx=1,Mx=2,Ku=3,Tx=4,Ex=5,Ax=6,wx=7,Am=0,MT=1,TT=2,xr=0,d1=1,p1=2,m1=3,mv=4,g1=5,x1=6,v1=7,X_=
+,gv=300,zo=301,Uc=302,rm=303,om=304,ed=306,lm=1e3,Aa=1001,cm=1002,Ui=1003,y1=1004,lw=1004,Bh=1005,cw=1005,ai=1006,Kp=1007,uw=1007,Lo=1008,fw=1008,$s=1009,_1=1010,b1=1011,Gh=1012,xv=1013,vr=1014,ta=1015,Po=1016,vv=1017,yv=1018,jh=1020,S1=35902,M1=35899,T1=1021,E1=1022,Us=1023,Bo=1026,Dc=1027,_v=1028,wm=1029,Ju=1030,bv=1031,hw=1032,Sv=1033,Jp=33776,$p=33777,em=33778,tm=33779,Cx=35840,Nx=35841,Rx=35842,Dx=35843,Ix=36196,Lx=37492,Ux=37496,Ox=37488,zx=37489,Px=37490,Bx=37491,Fx=37808,kx=37809,Vx=37810,Hx=37811,Gx=37812,jx=37813,Wx=37814,Xx=37815,qx=37816,Yx=37817,Zx=37818,Qx=37819,Kx=37820,Jx=37821,$x=36492,ev=36494,tv=36495,nv=36283,iv=36284,sv=36285,av=36286,AT=2200,wT=2201,CT=2202,um=2300,rv=2301,px=2302,Wu=2400,Xu=2401,fm=2402,Mv=2500,A1=2501,dw=0,pw=1,mw=2,NT=3200,gw=3201,xw=3202,vw=3203,Bc=0,RT=1,Al=
+,Sw=0,Hu=7680,Mw=7681,Tw=7682,Ew=7683,Aw=34055,ww=34056,Cw=5386,Nw=512,Rw=513,Dw=514,Iw=515,Lw=516,Uw=517,Ow=518,q_=519,DT=512,IT=513,LT=514,Tv=515,UT=516,OT=517,Ev=518,zT=519,dm=35044,zw=35048,Pw=35040,Bw=35045,Fw=35049,kw=35041,Vw=35046,Hw=35050,Gw=35042,jw=
+,ka=2e3,Wh=2001,Ww={COMPUTE:
++Rs[e&255]+Rs[e>>8&255]+
++Rs[e>>16&15|64]+Rs[e>>24&255]+
++Rs[t&63|128]+Rs[t>>8&255]+
+:r.set(h*y,m*_,m*S,h*g);break;case
+:r.set(m*S,h*y,m*_,h*g);break;case
+:r.set(m*_,m*S,h*y,h*g);break;case
+:r.set(h*y,m*A,m*M,h*g);break;case
+:r.set(m*M,h*y,m*A,h*g);break;case
+:r.set(m*A,m*M,h*y,h*g);break;default:lt(
+:this._x=S*y*_+g*M*A,this._y=g*M*_-S*y*A,this._z=g*y*A+S*M*_,this._w=g*y*_-S*M*A;break;case
+:this._x=S*y*_+g*M*A,this._y=g*M*_-S*y*A,this._z=g*y*A-S*M*_,this._w=g*y*_+S*M*A;break;case
+:this._x=S*y*_-g*M*A,this._y=g*M*_+S*y*A,this._z=g*y*A+S*M*_,this._w=g*y*_-S*M*A;break;case
+:this._x=S*y*_-g*M*A,this._y=g*M*_+S*y*A,this._z=g*y*A-S*M*_,this._w=g*y*_+S*M*A;break;case
+:this._x=S*y*_+g*M*A,this._y=g*M*_+S*y*A,this._z=g*y*A-S*M*_,this._w=g*y*_-S*M*A;break;case
+:this._x=S*y*_-g*M*A,this._y=g*M*_-S*y*A,this._z=g*y*A+S*M*_,this._w=g*y*_+S*M*A;break;default:lt(
+){if(/^data:/i.test(e.src)||typeof HTMLCanvasElement>
+)),dh.width=e.width,dh.height=e.height;const s=dh.getContext(
+&&e instanceof HTMLImageElement||typeof HTMLCanvasElement<
+&&e instanceof HTMLCanvasElement||typeof ImageBitmap<
+&&e instanceof ImageBitmap){const t=pm(
+);t.width=e.width,t.height=e.height;const i=t.getContext(
+),e}}let g3=0;class Ic{constructor(e=null){this.isSource=!0,Object.defineProperty(this,
+&&t instanceof HTMLVideoElement?e.set(t.videoWidth,t.videoHeight,0):typeof VideoFrame<
+&&t instanceof VideoFrame?e.set(t.displayHeight,t.displayWidth,0):t!==null?e.set(t.width,t.height,t.depth||0):e.set(0,0,0),e}set needsUpdate(e){e===!0&&this.version++}toJSON(e){const t=e===void 0||typeof e==
+&&r instanceof HTMLImageElement||typeof HTMLCanvasElement<
+&&r instanceof HTMLCanvasElement||typeof ImageBitmap<
+&&r instanceof ImageBitmap?kT.getDataURL(r):r.data?{data:Array.from(r.data),width:r.width,height:r.height,type:r.data.constructor.name}:(lt(
+),{})}let x3=0;const Xy=new q;class Ei extends Fo{constructor(e=Ei.DEFAULT_IMAGE,t=Ei.DEFAULT_MAPPING,i=Aa,s=Aa,c=ai,f=Lo,h=Us,m=$s,g=Ei.DEFAULT_ANISOTROPY,y=Al){super(),this.isTexture=!0,Object.defineProperty(this,
+,{value:x3++}),this.uuid=Va(),this.name=
+){const S=f*y,M=f*_,A=h*y,R=h*_;t[0]=m*y,t[4]=-m*_,t[8]=g,t[1]=M+A*g,t[5]=S-R*g,t[9]=-h*m,t[2]=R-S*g,t[6]=A+M*g,t[10]=f*m}else if(e.order===
+){const S=m*y,M=m*_,A=g*y,R=g*_;t[0]=S+R*h,t[4]=A*h-M,t[8]=f*g,t[1]=f*_,t[5]=f*y,t[9]=-h,t[2]=M*h-A,t[6]=R+S*h,t[10]=f*m}else if(e.order===
+){const S=m*y,M=m*_,A=g*y,R=g*_;t[0]=S-R*h,t[4]=-f*_,t[8]=A+M*h,t[1]=M+A*h,t[5]=f*y,t[9]=R-S*h,t[2]=-f*g,t[6]=h,t[10]=f*m}else if(e.order===
+){const S=f*y,M=f*_,A=h*y,R=h*_;t[0]=m*y,t[4]=A*g-M,t[8]=S*g+R,t[1]=m*_,t[5]=R*g+S,t[9]=M*g-A,t[2]=-g,t[6]=h*m,t[10]=f*m}else if(e.order===
+){const S=f*m,M=f*g,A=h*m,R=h*g;t[0]=m*y,t[4]=R-S*_,t[8]=A*_+M,t[1]=_,t[5]=f*y,t[9]=-h*y,t[2]=-g*y,t[6]=M*_+A,t[10]=S-R*_}else if(e.order===
+:this._y=Math.asin(kt(h,-1,1)),Math.abs(h)<.9999999?(this._x=Math.atan2(-y,M),this._z=Math.atan2(-f,c)):(this._x=Math.atan2(S,g),this._z=0);break;case
+:this._x=Math.asin(-kt(y,-1,1)),Math.abs(y)<.9999999?(this._y=Math.atan2(h,M),this._z=Math.atan2(m,g)):(this._y=Math.atan2(-_,c),this._z=0);break;case
+:this._x=Math.asin(kt(S,-1,1)),Math.abs(S)<.9999999?(this._y=Math.atan2(-_,M),this._z=Math.atan2(-f,g)):(this._y=0,this._z=Math.atan2(m,c));break;case
+:this._y=Math.asin(-kt(_,-1,1)),Math.abs(_)<.9999999?(this._x=Math.atan2(S,M),this._z=Math.atan2(m,c)):(this._x=0,this._z=Math.atan2(-f,g));break;case
+:this._z=Math.asin(kt(m,-1,1)),Math.abs(m)<.9999999?(this._x=Math.atan2(-y,g),this._y=Math.atan2(-_,c)):(this._x=0,this._y=Math.atan2(h,M));break;case
+:this._z=Math.asin(-kt(f,-1,1)),Math.abs(f)<.9999999?(this._x=Math.atan2(S,g),this._y=Math.atan2(h,c)):(this._x=Math.atan2(-y,M),this._y=0);break;default:lt(
+;class Yh{constructor(){this.mask=1}set(e){this.mask=(1<<e|0)>>>0}enable(e){this.mask|=1<<e|0}enableAll(){this.mask=-1}toggle(e){this.mask^=1<<e|0}disable(e){this.mask&=~(1<<e|0)}disableAll(){this.mask=0}test(e){return(this.mask&e.mask)!==0}isEnabled(e){return(this.mask&(1<<e|0))!==0}}let M3=0;const cS=new q,vh=new wa,Sl=new Ht,C0=new q,zp=new q,T3=new q,E3=new wa,uS=new q(1,0,0),fS=new q(0,1,0),hS=new q(0,0,1),dS={type:
+,child:null},Jy={type:
+,child:null};class wn extends Fo{constructor(){super(),this.isObject3D=!0,Object.defineProperty(this,
+,{value:M3++}),this.uuid=Va(),this.name=
+,e),this):(e&&e.isObject3D?(e.removeFromParent(),e.parent=this,this.children.push(e),e.dispatchEvent(dS),yh.child=e,this.dispatchEvent(yh),yh.child=null):wt(
+,i={};t&&(e={geometries:{},materials:{},textures:{},images:{},shapes:{},skeletons:{},animations:{},nodes:{}},i.metadata={version:4.7,type:
+});const s={};s.uuid=this.uuid,s.type=this.type,this.name!==
+&&(s.name=this.name),this.castShadow===!0&&(s.castShadow=!0),this.receiveShadow===!0&&(s.receiveShadow=!0),this.visible===!1&&(s.visible=!1),this.frustumCulled===!1&&(s.frustumCulled=!1),this.renderOrder!==0&&(s.renderOrder=this.renderOrder),Object.keys(this.userData).length>0&&(s.userData=this.userData),s.layers=this.layers.mask,s.matrix=this.matrix.toArray(),s.up=this.up.toArray(),this.matrixAutoUpdate===!1&&(s.matrixAutoUpdate=!1),this.isInstancedMesh&&(s.type=
+,s.count=this.count,s.instanceMatrix=this.instanceMatrix.toJSON(),this.instanceColor!==null&&(s.instanceColor=this.instanceColor.toJSON())),this.isBatchedMesh&&(s.type=
+?this.setHex(s):typeof s==
+)}let s;if(s=/^(\w+)\(([^\)]*)\)/.exec(e)){let c;const f=s[1],h=s[2];switch(f){case
+,{value:w3++}),this.uuid=Va(),this.name=
+;t&&(e={textures:{},images:{}});const i={metadata:{version:4.7,type:
+}};i.uuid=this.uuid,i.type=this.type,this.name!==
+&&(i.name=this.name),this.color&&this.color.isColor&&(i.color=this.color.getHex()),this.roughness!==void 0&&(i.roughness=this.roughness),this.metalness!==void 0&&(i.metalness=this.metalness),this.sheen!==void 0&&(i.sheen=this.sheen),this.sheenColor&&this.sheenColor.isColor&&(i.sheenColor=this.sheenColor.getHex()),this.sheenRoughness!==void 0&&(i.sheenRoughness=this.sheenRoughness),this.emissive&&this.emissive.isColor&&(i.emissive=this.emissive.getHex()),this.emissiveIntensity!==void 0&&this.emissiveIntensity!==1&&(i.emissiveIntensity=this.emissiveIntensity),this.specular&&this.specular.isColor&&(i.specular=this.specular.getHex()),this.specularIntensity!==void 0&&(i.specularIntensity=this.specularIntensity),this.specularColor&&this.specularColor.isColor&&(i.specularColor=this.specularColor.getHex()),this.shininess!==void 0&&(i.shininess=this.shininess),this.clearcoat!==void 0&&(i.clearcoat=this.clearcoat),this.clearcoatRoughness!==void 0&&(i.clearcoatRoughness=this.clearcoatRoughness),this.clearcoatMap&&this.clearcoatMap.isTexture&&(i.clearcoatMap=this.clearcoatMap.toJSON(e).uuid),this.clearcoatRoughnessMap&&this.clearcoatRoughnessMap.isTexture&&(i.clearcoatRoughnessMap=this.clearcoatRoughnessMap.toJSON(e).uuid),this.clearcoatNormalMap&&this.clearcoatNormalMap.isTexture&&(i.clearcoatNormalMap=this.clearcoatNormalMap.toJSON(e).uuid,i.clearcoatNormalScale=this.clearcoatNormalScale.toArray()),this.sheenColorMap&&this.sheenColorMap.isTexture&&(i.sheenColorMap=this.sheenColorMap.toJSON(e).uuid),this.sheenRoughnessMap&&this.sheenRoughnessMap.isTexture&&(i.sheenRoughnessMap=this.sheenRoughnessMap.toJSON(e).uuid),this.dispersion!==void 0&&(i.dispersion=this.dispersion),this.iridescence!==void 0&&(i.iridescence=this.iridescence),this.iridescenceIOR!==void 0&&(i.iridescenceIOR=this.iridescenceIOR),this.iridescenceThicknessRange!==void 0&&(i.iridescenceThicknessRange=this.iridescenceThicknessRange),this.iridescenceMap&&this.iridescenceMap.isTexture&&(i.iridescenceMap=this.iridescenceMap.toJSON(e).uuid),this.iridescenceThicknessMap&&this.iridescenceThicknessMap.isTexture&&(i.iridescenceThicknessMap=this.iridescenceThicknessMap.toJSON(e).uuid),this.anisotropy!==void 0&&(i.anisotropy=this.anisotropy),this.anisotropyRotation!==void 0&&(i.anisotropyRotation=this.anisotropyRotation),this.anisotropyMap&&this.anisotropyMap.isTexture&&(i.anisotropyMap=this.anisotropyMap.toJSON(e).uuid),this.map&&this.map.isTexture&&(i.map=this.map.toJSON(e).uuid),this.matcap&&this.matcap.isTexture&&(i.matcap=this.matcap.toJSON(e).uuid),this.alphaMap&&this.alphaMap.isTexture&&(i.alphaMap=this.alphaMap.toJSON(e).uuid),this.lightMap&&this.lightMap.isTexture&&(i.lightMap=this.lightMap.toJSON(e).uuid,i.lightMapIntensity=this.lightMapIntensity),this.aoMap&&this.aoMap.isTexture&&(i.aoMap=this.aoMap.toJSON(e).uuid,i.aoMapIntensity=this.aoMapIntensity),this.bumpMap&&this.bumpMap.isTexture&&(i.bumpMap=this.bumpMap.toJSON(e).uuid,i.bumpScale=this.bumpScale),this.normalMap&&this.normalMap.isTexture&&(i.normalMap=this.normalMap.toJSON(e).uuid,i.normalMapType=this.normalMapType,i.normalScale=this.normalScale.toArray()),this.displacementMap&&this.displacementMap.isTexture&&(i.displacementMap=this.displacementMap.toJSON(e).uuid,i.displacementScale=this.displacementScale,i.displacementBias=this.displacementBias),this.roughnessMap&&this.roughnessMap.isTexture&&(i.roughnessMap=this.roughnessMap.toJSON(e).uuid),this.metalnessMap&&this.metalnessMap.isTexture&&(i.metalnessMap=this.metalnessMap.toJSON(e).uuid),this.emissiveMap&&this.emissiveMap.isTexture&&(i.emissiveMap=this.emissiveMap.toJSON(e).uuid),this.specularMap&&this.specularMap.isTexture&&(i.specularMap=this.specularMap.toJSON(e).uuid),this.specularIntensityMap&&this.specularIntensityMap.isTexture&&(i.specularIntensityMap=this.specularIntensityMap.toJSON(e).uuid),this.specularColorMap&&this.specularColorMap.isTexture&&(i.specularColorMap=this.specularColorMap.toJSON(e).uuid),this.envMap&&this.envMap.isTexture&&(i.envMap=this.envMap.toJSON(e).uuid,this.combine!==void 0&&(i.combine=this.combine)),this.envMapRotation!==void 0&&(i.envMapRotation=this.envMapRotation.toArray()),this.envMapIntensity!==void 0&&(i.envMapIntensity=this.envMapIntensity),this.reflectivity!==void 0&&(i.reflectivity=this.reflectivity),this.refractionRatio!==void 0&&(i.refractionRatio=this.refractionRatio),this.gradientMap&&this.gradientMap.isTexture&&(i.gradientMap=this.gradientMap.toJSON(e).uuid),this.transmission!==void 0&&(i.transmission=this.transmission),this.transmissionMap&&this.transmissionMap.isTexture&&(i.transmissionMap=this.transmissionMap.toJSON(e).uuid),this.thickness!==void 0&&(i.thickness=this.thickness),this.thicknessMap&&this.thicknessMap.isTexture&&(i.thicknessMap=this.thicknessMap.toJSON(e).uuid),this.attenuationDistance!==void 0&&this.attenuationDistance!==1/0&&(i.attenuationDistance=this.attenuationDistance),this.attenuationColor!==void 0&&(i.attenuationColor=this.attenuationColor.getHex()),this.size!==void 0&&(i.size=this.size),this.shadowSide!==null&&(i.shadowSide=this.shadowSide),this.sizeAttenuation!==void 0&&(i.sizeAttenuation=this.sizeAttenuation),this.blending!==Yu&&(i.blending=this.blending),this.side!==Nl&&(i.side=this.side),this.vertexColors===!0&&(i.vertexColors=!0),this.opacity<1&&(i.opacity=this.opacity),this.transparent===!0&&(i.transparent=!0),this.blendSrc!==yx&&(i.blendSrc=this.blendSrc),this.blendDst!==_x&&(i.blendDst=this.blendDst),this.blendEquation!==Cc&&(i.blendEquation=this.blendEquation),this.blendSrcAlpha!==null&&(i.blendSrcAlpha=this.blendSrcAlpha),this.blendDstAlpha!==null&&(i.blendDstAlpha=this.blendDstAlpha),this.blendEquationAlpha!==null&&(i.blendEquationAlpha=this.blendEquationAlpha),this.blendColor&&this.blendColor.isColor&&(i.blendColor=this.blendColor.getHex()),this.blendAlpha!==0&&(i.blendAlpha=this.blendAlpha),this.depthFunc!==Ku&&(i.depthFunc=this.depthFunc),this.depthTest===!1&&(i.depthTest=this.depthTest),this.depthWrite===!1&&(i.depthWrite=this.depthWrite),this.colorWrite===!1&&(i.colorWrite=this.colorWrite),this.stencilWriteMask!==255&&(i.stencilWriteMask=this.stencilWriteMask),this.stencilFunc!==q_&&(i.stencilFunc=this.stencilFunc),this.stencilRef!==0&&(i.stencilRef=this.stencilRef),this.stencilFuncMask!==255&&(i.stencilFuncMask=this.stencilFuncMask),this.stencilFail!==Hu&&(i.stencilFail=this.stencilFail),this.stencilZFail!==Hu&&(i.stencilZFail=this.stencilZFail),this.stencilZPass!==Hu&&(i.stencilZPass=this.stencilZPass),this.stencilWrite===!0&&(i.stencilWrite=this.stencilWrite),this.rotation!==void 0&&this.rotation!==0&&(i.rotation=this.rotation),this.polygonOffset===!0&&(i.polygonOffset=!0),this.polygonOffsetFactor!==0&&(i.polygonOffsetFactor=this.polygonOffsetFactor),this.polygonOffsetUnits!==0&&(i.polygonOffsetUnits=this.polygonOffsetUnits),this.linewidth!==void 0&&this.linewidth!==1&&(i.linewidth=this.linewidth),this.dashSize!==void 0&&(i.dashSize=this.dashSize),this.gapSize!==void 0&&(i.gapSize=this.gapSize),this.scale!==void 0&&(i.scale=this.scale),this.dithering===!0&&(i.dithering=!0),this.alphaTest>0&&(i.alphaTest=this.alphaTest),this.alphaHash===!0&&(i.alphaHash=!0),this.alphaToCoverage===!0&&(i.alphaToCoverage=!0),this.premultipliedAlpha===!0&&(i.premultipliedAlpha=!0),this.forceSinglePass===!0&&(i.forceSinglePass=!0),this.allowOverride===!1&&(i.allowOverride=!1),this.wireframe===!0&&(i.wireframe=!0),this.wireframeLinewidth>1&&(i.wireframeLinewidth=this.wireframeLinewidth),this.wireframeLinecap!==
+&&(i.wireframeLinecap=this.wireframeLinecap),this.wireframeLinejoin!==
+})}set needsUpdate(e){e===!0&&this.version++}}class Fc extends zs{constructor(e){super(),this.isMeshBasicMaterial=!0,this.type=
+,this.color=new gt(16777215),this.map=null,this.lightMap=null,this.lightMapIntensity=1,this.aoMap=null,this.aoMapIntensity=1,this.specularMap=null,this.alphaMap=null,this.envMap=null,this.envMapRotation=new Ga,this.combine=Am,this.reflectivity=1,this.refractionRatio=.98,this.wireframe=!1,this.wireframeLinewidth=1,this.wireframeLinecap=
+,this.wireframeLinejoin=
+);this.isBufferAttribute=!0,Object.defineProperty(this,
+,{value:R3++}),this.name=
+,{value:P3++}),this.uuid=Va(),this.name=
+);if(t===void 0){const i=[];for(let s=0,c=e.length;s<c;s++){const f=e[s];i.push(f.x,f.y,f.z||0)}this.setAttribute(
+,new _t(i,3))}else{const i=Math.min(e.length,t.count);for(let s=0;s<i;s++){const c=e[s];t.setXYZ(s,c.x,c.y,c.z||0)}e.length>t.count&&lt(
+,this),this.boundingBox.set(new q(-1/0,-1/0,-1/0),new q(1/0,1/0,1/0));return}if(e!==void 0){if(this.boundingBox.setFromBufferAttribute(e),t)for(let i=0,s=t.length;i<s;i++){const c=t[i];Fa.setFromBufferAttribute(c),this.morphTargetsRelative?(ss.addVectors(this.boundingBox.min,Fa.min),this.boundingBox.expandByPoint(ss),ss.addVectors(this.boundingBox.max,Fa.max),this.boundingBox.expandByPoint(ss)):(this.boundingBox.expandByPoint(Fa.min),this.boundingBox.expandByPoint(Fa.max))}}else this.boundingBox.makeEmpty();(isNaN(this.boundingBox.min.x)||isNaN(this.boundingBox.min.y)||isNaN(this.boundingBox.min.z))&&wt('BufferGeometry.computeBoundingBox(): Computed min/max have NaN values. The 
+ attribute is likely to have NaN values.',this)}computeBoundingSphere(){this.boundingSphere===null&&(this.boundingSphere=new xs);const e=this.attributes.position,t=this.morphAttributes.position;if(e&&e.isGLBufferAttribute){wt(
+,this),this.boundingSphere.set(new q,1/0);return}if(e){const i=this.boundingSphere.center;if(Fa.setFromBufferAttribute(e),t)for(let c=0,f=t.length;c<f;c++){const h=t[c];Pp.setFromBufferAttribute(h),this.morphTargetsRelative?(ss.addVectors(Fa.min,Pp.min),Fa.expandByPoint(ss),ss.addVectors(Fa.max,Pp.max),Fa.expandByPoint(ss)):(Fa.expandByPoint(Pp.min),Fa.expandByPoint(Pp.max))}Fa.getCenter(i);let s=0;for(let c=0,f=e.count;c<f;c++)ss.fromBufferAttribute(e,c),s=Math.max(s,i.distanceToSquared(ss));if(t)for(let c=0,f=t.length;c<f;c++){const h=t[c],m=this.morphTargetsRelative;for(let g=0,y=h.count;g<y;g++)ss.fromBufferAttribute(h,g),m&&(Sh.fromBufferAttribute(e,g),ss.add(Sh)),s=Math.max(s,i.distanceToSquared(ss))}this.boundingSphere.radius=Math.sqrt(s),isNaN(this.boundingSphere.radius)&&wt('BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The 
+ attribute is likely to have NaN values.',this)}}computeTangents(){const e=this.index,t=this.attributes;if(e===null||t.position===void 0||t.normal===void 0||t.uv===void 0){wt(
+);return}const i=t.position,s=t.normal,c=t.uv;this.hasAttribute(
+)===!1&&this.setAttribute(
+,new Pn(new Float32Array(4*i.count),4));const f=this.getAttribute(
+);if(t!==void 0){let i=this.getAttribute(
+);if(i===void 0)i=new Pn(new Float32Array(t.count*3),3),this.setAttribute(
+}};if(e.uuid=this.uuid,e.type=this.type,this.name!==
+})}}const mS=new Ht,Ru=new td,D0=new xs,gS=new q,I0=new q,L0=new q,U0=new q,l_=new q,O0=new q,xS=new q,z0=new q;class ji extends wn{constructor(e=new Yt,t=new Fc){super(),this.isMesh=!0,this.type=
+,this.parameters={width:e,height:t,depth:i,widthSegments:s,heightSegments:c,depthSegments:f};const h=this;s=Math.floor(s),c=Math.floor(c),f=Math.floor(f);const m=[],g=[],y=[],_=[];let S=0,M=0;A(
+,-1,-1,i,t,e,f,c,0),A(
+,1,-1,i,t,-e,f,c,1),A(
+,1,-1,e,i,-t,s,f,3),A(
+,1,-1,e,t,i,s,c,4),A(
+,-1,-1,e,t,-i,s,c,5),this.setIndex(m),this.setAttribute(
+,new _t(g,3)),this.setAttribute(
+,new _t(y,3)),this.setAttribute(
+,value:f.toJSON(e).uuid}:f&&f.isColor?t.uniforms[s]={type:
+,value:f.getHex()}:f&&f.isVector2?t.uniforms[s]={type:
+,value:f.toArray()}:f&&f.isVector3?t.uniforms[s]={type:
+,value:f.toArray()}:f&&f.isVector4?t.uniforms[s]={type:
+,value:f.toArray()}:f&&f.isMatrix3?t.uniforms[s]={type:
+,value:f.toArray()}:f&&f.isMatrix4?t.uniforms[s]={type:
+,this.renderTarget=i,this.coordinateSystem=null,this.activeMipmapLevel=0;const s=new as(Mh,Th,e,t);s.layers=this.layers,this.add(s);const c=new as(Mh,Th,e,t);c.layers=this.layers,this.add(c);const f=new as(Mh,Th,e,t);f.layers=this.layers,this.add(f);const h=new as(Mh,Th,e,t);h.layers=this.layers,this.add(h);const m=new as(Mh,Th,e,t);m.layers=this.layers,this.add(m);const g=new as(Mh,Th,e,t);g.layers=this.layers,this.add(g)}updateCoordinateSystem(){const e=this.coordinateSystem,t=this.children.concat(),[i,s,c,f,h,m]=t;for(const g of t)this.remove(g);if(e===ka)i.up.set(0,1,0),i.lookAt(1,0,0),s.up.set(0,1,0),s.lookAt(-1,0,0),c.up.set(0,0,-1),c.lookAt(0,1,0),f.up.set(0,0,1),f.lookAt(0,-1,0),h.up.set(0,1,0),h.lookAt(0,0,1),m.up.set(0,1,0),m.lookAt(0,0,-1);else if(e===Wh)i.up.set(0,-1,0),i.lookAt(-1,0,0),s.up.set(0,-1,0),s.lookAt(1,0,0),c.up.set(0,0,1),c.lookAt(0,1,0),f.up.set(0,0,-1),f.lookAt(0,-1,0),h.up.set(0,-1,0),h.lookAt(0,0,1),m.up.set(0,-1,0),m.lookAt(0,0,-1);else throw new Error(
+,data:e}),this._targetRay!==null&&(this._targetRay.visible=!1),this._grip!==null&&(this._grip.visible=!1),this._hand!==null&&(this._hand.visible=!1),this}update(e,t,i){let s=null,c=null,f=null;const h=this._targetRay,m=this._grip,g=this._hand;if(e&&t.session.visibilityState!==
+){if(g&&e.hand){f=!0;for(const R of e.hand.values()){const C=t.getJointPose(R,i),T=this._getHandJoint(g,R);C!==null&&(T.matrix.fromArray(C.transform.matrix),T.matrix.decompose(T.position,T.rotation,T.scale),T.matrixWorldNeedsUpdate=!0,T.jointRadius=C.radius),T.visible=C!==null}const y=g.joints[
+],S=y.position.distanceTo(_.position),M=.02,A=.005;g.inputState.pinching&&S>M+A?(g.inputState.pinching=!1,this.dispatchEvent({type:
+,handedness:e.handedness,target:this})):!g.inputState.pinching&&S<=M-A&&(g.inputState.pinching=!0,this.dispatchEvent({type:
+,name:this.name,color:this.color.getHex(),density:this.density}}}class Rv{constructor(e,t=1,i=1e3){this.isFog=!0,this.name=
+,name:this.name,color:this.color.getHex(),near:this.near,far:this.far}}}let I1=class extends wn{constructor(){super(),this.isScene=!0,this.type=
+,this.background=null,this.environment=null,this.fog=null,this.backgroundBlurriness=0,this.backgroundIntensity=1,this.backgroundRotation=new Ga,this.environmentIntensity=1,this.environmentRotation=new Ga,this.overrideMaterial=null,typeof __THREE_DEVTOOLS__<
+&&__THREE_DEVTOOLS__.dispatchEvent(new CustomEvent(
+,Eh===void 0){Eh=new Yt;const t=new Float32Array([-.5,-.5,0,0,0,.5,-.5,0,1,0,.5,.5,0,1,1,-.5,.5,0,0,1]),i=new Dv(t,5);Eh.setIndex([0,1,2,0,2,3]),Eh.setAttribute(
+,new $u(i,3,0,!1)),Eh.setAttribute(
+,new $u(i,2,3,!1))}this.geometry=Eh,this.material=e,this.center=new Fe(.5,.5),this.count=1}raycast(e,t){e.camera===null&&wt('Sprite: 
+,this.bindMode=X_,this.bindMatrix=new Ht,this.bindMatrixInverse=new Ht,this.boundingBox=null,this.boundingSphere=null}computeBoundingBox(){const e=this.geometry;this.boundingBox===null&&(this.boundingBox=new Os),this.boundingBox.makeEmpty();const t=e.getAttribute(
+);for(let i=0;i<t.count;i++)this.getVertexPosition(i,H0),this.boundingBox.expandByPoint(H0)}computeBoundingSphere(){const e=this.geometry;this.boundingSphere===null&&(this.boundingSphere=new xs),this.boundingSphere.makeEmpty();const t=e.getAttribute(
+}}class qr extends Ei{constructor(e=null,t=1,i=1,s,c,f,h,m,g=Ui,y=Ui,_,S){super(null,f,h,m,g,y,s,c,_,S),this.isDataTexture=!0,this.image={data:e,width:t,height:i},this.generateMipmaps=!1,this.flipY=!1,this.unpackAlignment=1}}const CS=new Ht,j3=new Ht;class Iv{constructor(e=[],t=[]){this.uuid=Va(),this.bones=e.slice(0),this.boneInverses=t,this.boneMatrices=null,this.previousBoneMatrices=null,this.boneTexture=null,this.init()}init(){const e=this.bones,t=this.boneInverses;if(this.boneMatrices=new Float32Array(e.length*16),t.length===0)this.calculateInverses();else if(e.length!==t.length){lt(
+.');for(const i in t.attributes){if(!e.hasAttribute(i))throw new Error(`THREE.BatchedMesh: Added geometry missing 
+. All geometries must have consistent attributes.`);const s=e.getAttribute(i),c=t.getAttribute(i);if(s.itemSize!==c.itemSize||s.normalized!==c.normalized)throw new Error(
+).count:t;const f=e.getIndex();if(f!==null&&(s.indexStart=this._nextIndexStart,s.reservedIndexCount=i===-1?f.count:i),s.indexStart!==-1&&s.indexStart+s.reservedIndexCount>this._maxIndexCount||s.vertexStart+s.reservedVertexCount>this._maxVertexCount)throw new Error(
+);this._validateGeometry(t);const i=this.geometry,s=i.getIndex()!==null,c=i.getIndex(),f=t.getIndex(),h=this._geometryInfo[e];if(s&&f.count>h.reservedIndexCount||t.attributes.position.count>h.reservedVertexCount)throw new Error(
+);const m=h.vertexStart,g=h.reservedVertexCount;h.vertexCount=t.getAttribute(
+,this.color=new gt(16777215),this.map=null,this.linewidth=1,this.linecap=
+,new _t(i,1))}else lt(
+}computeLineDistances(){const e=this.geometry;if(e.index===null){const t=e.attributes.position,i=[];for(let s=0,c=t.count;s<c;s+=2)OS.fromBufferAttribute(t,s),zS.fromBufferAttribute(t,s+1),i[s]=s===0?0:i[s-1],i[s+1]=i[s]+OS.distanceTo(zS);e.setAttribute(
+}}class O1 extends zs{constructor(e){super(),this.isPointsMaterial=!0,this.type=
+,this.parameters={radius:e,height:t,capSegments:i,radialSegments:s,heightSegments:c},t=Math.max(0,t),i=Math.max(1,Math.floor(i)),s=Math.max(3,Math.floor(s)),c=Math.max(1,Math.floor(c));const f=[],h=[],m=[],g=[],y=t/2,_=Math.PI/2*e,S=t,M=2*_+S,A=i*2+c,R=s+1,C=new q,T=new q;for(let D=0;D<=A;D++){let L=0,U=0,B=0,F=0;if(D<=i){const O=D/i,P=O*Math.PI/2;U=-y-e*Math.cos(P),B=e*Math.sin(P),F=-e*Math.cos(P),L=O*_}else if(D<=i+c){const O=(D-i)/c;U=-y+O*t,B=e,F=0,L=_+O*S}else{const O=(D-i-c)/i,P=O*Math.PI/2;U=y+e*Math.sin(P),B=e*Math.cos(P),F=e*Math.sin(P),L=_+S+O*_}const G=Math.max(0,Math.min(1,L/M));let X=0;D===0?X=.5/s:D===A&&(X=-.5/s);for(let O=0;O<=s;O++){const P=O/s,Q=P*Math.PI*2,ae=Math.sin(Q),ee=Math.cos(Q);T.x=-B*ee,T.y=U,T.z=B*ae,h.push(T.x,T.y,T.z),C.set(-B*ee,F,B*ae),C.normalize(),m.push(C.x,C.y,C.z),g.push(P+X,G)}if(D>0){const O=(D-1)*R;for(let P=0;P<s;P++){const Q=O+P,ae=O+P+1,ee=D*R+P,de=D*R+P+1;f.push(Q,ae,ee),f.push(ae,de,ee)}}}this.setIndex(f),this.setAttribute(
+,new _t(h,3)),this.setAttribute(
+,new _t(m,3)),this.setAttribute(
+,this.parameters={radius:e,segments:t,thetaStart:i,thetaLength:s},t=Math.max(3,t);const c=[],f=[],h=[],m=[],g=new q,y=new Fe;f.push(0,0,0),h.push(0,0,1),m.push(.5,.5);for(let _=0,S=3;_<=t;_++,S+=3){const M=i+_/t*s;g.x=e*Math.cos(M),g.y=e*Math.sin(M),f.push(g.x,g.y,g.z),h.push(0,0,1),y.x=(f[S]/e+1)/2,y.y=(f[S+1]/e+1)/2,m.push(y.x,y.y)}for(let _=1;_<=t;_++)c.push(_,_+1,0);this.setIndex(c),this.setAttribute(
+,new _t(f,3)),this.setAttribute(
+,this.parameters={radiusTop:e,radiusBottom:t,height:i,radialSegments:s,heightSegments:c,openEnded:f,thetaStart:h,thetaLength:m};const g=this;s=Math.floor(s),c=Math.floor(c);const y=[],_=[],S=[],M=[];let A=0;const R=[],C=i/2;let T=0;D(),f===!1&&(e>0&&L(!0),t>0&&L(!1)),this.setIndex(y),this.setAttribute(
+,new _t(_,3)),this.setAttribute(
+,new _t(S,3)),this.setAttribute(
+,this.parameters={vertices:e,indices:t,radius:i,detail:s};const c=[],f=[];h(s),g(i),y(),this.setAttribute(
+,new _t(c,3)),this.setAttribute(
+,new _t(c.slice(),3)),this.setAttribute(
+,this.parameters={geometry:e,thresholdAngle:t},e!==null){const s=Math.pow(10,4),c=Math.cos(Zu*t),f=e.getIndex(),h=e.getAttribute(
+),m=f?f.count:h.count,g=[0,0,0],y=[
+],_=new Array(3),S={},M=[];for(let A=0;A<m;A+=3){f?(g[0]=f.getX(A),g[1]=f.getX(A+1),g[2]=f.getX(A+2)):(g[0]=A,g[1]=A+1,g[2]=A+2);const{a:R,b:C,c:T}=$0;if(R.fromBufferAttribute(h,g[0]),C.fromBufferAttribute(h,g[1]),T.fromBufferAttribute(h,g[2]),$0.getNormal(g_),_[0]=`${Math.round(R.x*s)},${Math.round(R.y*s)},${Math.round(R.z*s)}`,_[1]=`${Math.round(C.x*s)},${Math.round(C.y*s)},${Math.round(C.z*s)}`,_[2]=`${Math.round(T.x*s)},${Math.round(T.y*s)},${Math.round(T.z*s)}`,!(_[0]===_[1]||_[1]===_[2]||_[2]===_[0]))for(let D=0;D<3;D++){const L=(D+1)%3,U=_[D],B=_[L],F=$0[y[D]],G=$0[y[L]],X=`${U}_${B}`,O=`${B}_${U}`;O in S&&S[O]?(g_.dot(S[O].normal)<=c&&(M.push(F.x,F.y,F.z),M.push(G.x,G.y,G.z)),S[O]=null):X in S||(S[X]={index0:g[D],index1:g[L],normal:g_.clone()})}}for(const A in S)if(S[A]){const{index0:R,index1:C}=S[A];K0.fromBufferAttribute(h,R),J0.fromBufferAttribute(h,C),M.push(K0.x,K0.y,K0.z),M.push(J0.x,J0.y,J0.z)}this.setAttribute(
+,this.arcLengthDivisions=200,this.needsUpdate=!1,this.cacheArcLengths=null}getPoint(){lt(
+,s=.5){super(),this.isCatmullRomCurve3=!0,this.type=
+,this.points=e,this.closed=t,this.curveType=i,this.tension=s}getPoint(e,t=new q){const i=t,s=this.points,c=s.length,f=(c-(this.closed?0:1))*e;let h=Math.floor(f),m=f-h;this.closed?h+=h>0?0:(Math.floor(Math.abs(h)/c)+1)*c:m===0&&h===c-1&&(h=c-2,m=1);let g,y;this.closed||h>0?g=s[(h-1)%c]:(ex.subVectors(s[0],s[1]).add(s[0]),g=ex);const _=s[h%c],S=s[(h+1)%c];if(this.closed||h+2<c?y=s[(h+2)%c]:(ex.subVectors(s[c-1],s[c-2]).add(s[c-1]),y=ex),this.curveType===
+){const M=this.curveType===
+?.5:.25;let A=Math.pow(g.distanceToSquared(_),M),R=Math.pow(_.distanceToSquared(S),M),C=Math.pow(S.distanceToSquared(y),M);R<1e-4&&(R=1),A<1e-4&&(A=R),C<1e-4&&(C=R),x_.initNonuniformCatmullRom(g.x,_.x,S.x,y.x,A,R,C),v_.initNonuniformCatmullRom(g.y,_.y,S.y,y.y,A,R,C),y_.initNonuniformCatmullRom(g.z,_.z,S.z,y.z,A,R,C)}else this.curveType===
+,this.curves=[],this.autoClose=!1}add(e){this.curves.push(e)}closePath(){const e=this.curves[0].getPoint(0),t=this.curves[this.curves.length-1].getPoint(1);if(!e.equals(t)){const i=e.isVector2===!0?
+,this.parameters={shapes:e,options:t},e=Array.isArray(e)?e:[e];const i=this,s=[],c=[];for(let h=0,m=e.length;h<m;h++){const g=e[h];f(g)}this.setAttribute(
+,new _t(s,3)),this.setAttribute(
+,this.parameters={points:e,segments:t,phiStart:i,phiLength:s},t=Math.floor(t),s=kt(s,0,Math.PI*2);const c=[],f=[],h=[],m=[],g=[],y=1/t,_=new q,S=new Fe,M=new q,A=new q,R=new q;let C=0,T=0;for(let D=0;D<=e.length-1;D++)switch(D){case 0:C=e[D+1].x-e[D].x,T=e[D+1].y-e[D].y,M.x=T*1,M.y=-C,M.z=T*0,R.copy(M),M.normalize(),m.push(M.x,M.y,M.z);break;case e.length-1:m.push(R.x,R.y,R.z);break;default:C=e[D+1].x-e[D].x,T=e[D+1].y-e[D].y,M.x=T*1,M.y=-C,M.z=T*0,A.copy(M),M.x+=R.x,M.y+=R.y,M.z+=R.z,M.normalize(),m.push(M.x,M.y,M.z),R.copy(A)}for(let D=0;D<=t;D++){const L=i+D*y*s,U=Math.sin(L),B=Math.cos(L);for(let F=0;F<=e.length-1;F++){_.x=e[F].x*U,_.y=e[F].y,_.z=e[F].x*B,f.push(_.x,_.y,_.z),S.x=D/t,S.y=F/(e.length-1),h.push(S.x,S.y);const G=m[3*F+0]*U,X=m[3*F+1],O=m[3*F+0]*B;g.push(G,X,O)}}for(let D=0;D<t;D++)for(let L=0;L<e.length-1;L++){const U=L+D*e.length,B=U,F=U+e.length,G=U+e.length+1,X=U+1;c.push(B,F,X),c.push(G,X,F)}this.setIndex(c),this.setAttribute(
+,new _t(h,2)),this.setAttribute(
+,this.parameters={width:e,height:t,widthSegments:i,heightSegments:s};const c=e/2,f=t/2,h=Math.floor(i),m=Math.floor(s),g=h+1,y=m+1,_=e/h,S=t/m,M=[],A=[],R=[],C=[];for(let T=0;T<y;T++){const D=T*S-f;for(let L=0;L<g;L++){const U=L*_-c;A.push(U,-D,0),R.push(0,0,1),C.push(L/h),C.push(1-T/m)}}for(let T=0;T<m;T++)for(let D=0;D<h;D++){const L=D+g*T,U=D+g*(T+1),B=D+1+g*(T+1),F=D+1+g*T;M.push(L,U,F),M.push(U,B,F)}this.setIndex(M),this.setAttribute(
+,new _t(A,3)),this.setAttribute(
+,new _t(R,3)),this.setAttribute(
+,this.parameters={innerRadius:e,outerRadius:t,thetaSegments:i,phiSegments:s,thetaStart:c,thetaLength:f},i=Math.max(3,i),s=Math.max(1,s);const h=[],m=[],g=[],y=[];let _=e;const S=(t-e)/s,M=new q,A=new Fe;for(let R=0;R<=s;R++){for(let C=0;C<=i;C++){const T=c+C/i*f;M.x=_*Math.cos(T),M.y=_*Math.sin(T),m.push(M.x,M.y,M.z),g.push(0,0,1),A.x=(M.x/t+1)/2,A.y=(M.y/t+1)/2,y.push(A.x,A.y)}_+=S}for(let R=0;R<s;R++){const C=R*(i+1);for(let T=0;T<i;T++){const D=T+C,L=D,U=D+i+1,B=D+i+2,F=D+1;h.push(L,U,F),h.push(U,B,F)}}this.setIndex(h),this.setAttribute(
+,this.parameters={shapes:e,curveSegments:t};const i=[],s=[],c=[],f=[];let h=0,m=0;if(Array.isArray(e)===!1)g(e);else for(let y=0;y<e.length;y++)g(e[y]),this.addGroup(h,m,y),h+=m,m=0;this.setIndex(i),this.setAttribute(
+,this.parameters={radius:e,widthSegments:t,heightSegments:i,phiStart:s,phiLength:c,thetaStart:f,thetaLength:h},t=Math.max(3,Math.floor(t)),i=Math.max(2,Math.floor(i));const m=Math.min(f+h,Math.PI);let g=0;const y=[],_=new q,S=new q,M=[],A=[],R=[],C=[];for(let T=0;T<=i;T++){const D=[],L=T/i;let U=0;T===0&&f===0?U=.5/t:T===i&&m===Math.PI&&(U=-.5/t);for(let B=0;B<=t;B++){const F=B/t;_.x=-e*Math.cos(s+F*c)*Math.sin(f+L*h),_.y=e*Math.cos(f+L*h),_.z=e*Math.sin(s+F*c)*Math.sin(f+L*h),A.push(_.x,_.y,_.z),S.copy(_).normalize(),R.push(S.x,S.y,S.z),C.push(F+U,1-L),D.push(g++)}y.push(D)}for(let T=0;T<i;T++)for(let D=0;D<t;D++){const L=y[T][D+1],U=y[T][D],B=y[T+1][D],F=y[T+1][D+1];(T!==0||f>0)&&M.push(L,U,F),(T!==i-1||m<Math.PI)&&M.push(U,B,F)}this.setIndex(M),this.setAttribute(
+,this.parameters={radius:e,tube:t,radialSegments:i,tubularSegments:s,arc:c},i=Math.floor(i),s=Math.floor(s);const f=[],h=[],m=[],g=[],y=new q,_=new q,S=new q;for(let M=0;M<=i;M++)for(let A=0;A<=s;A++){const R=A/s*c,C=M/i*Math.PI*2;_.x=(e+t*Math.cos(C))*Math.cos(R),_.y=(e+t*Math.cos(C))*Math.sin(R),_.z=t*Math.sin(C),h.push(_.x,_.y,_.z),y.x=e*Math.cos(R),y.y=e*Math.sin(R),S.subVectors(_,y).normalize(),m.push(S.x,S.y,S.z),g.push(A/s),g.push(M/i)}for(let M=1;M<=i;M++)for(let A=1;A<=s;A++){const R=(s+1)*M+A-1,C=(s+1)*(M-1)+A-1,T=(s+1)*(M-1)+A,D=(s+1)*M+A;f.push(R,C,D),f.push(C,T,D)}this.setIndex(f),this.setAttribute(
+,this.parameters={radius:e,tube:t,tubularSegments:i,radialSegments:s,p:c,q:f},i=Math.floor(i),s=Math.floor(s);const h=[],m=[],g=[],y=[],_=new q,S=new q,M=new q,A=new q,R=new q,C=new q,T=new q;for(let L=0;L<=i;++L){const U=L/i*c*Math.PI*2;D(U,c,f,e,M),D(U+.01,c,f,e,A),C.subVectors(A,M),T.addVectors(A,M),R.crossVectors(C,T),T.crossVectors(R,C),R.normalize(),T.normalize();for(let B=0;B<=s;++B){const F=B/s*Math.PI*2,G=-t*Math.cos(F),X=t*Math.sin(F);_.x=M.x+(G*T.x+X*R.x),_.y=M.y+(G*T.y+X*R.y),_.z=M.z+(G*T.z+X*R.z),m.push(_.x,_.y,_.z),S.subVectors(_,M).normalize(),g.push(S.x,S.y,S.z),y.push(L/i),y.push(B/s)}}for(let L=1;L<=i;L++)for(let U=1;U<=s;U++){const B=(s+1)*(L-1)+(U-1),F=(s+1)*L+(U-1),G=(s+1)*L+U,X=(s+1)*(L-1)+U;h.push(B,F,X),h.push(F,G,X)}this.setIndex(h),this.setAttribute(
+,this.parameters={path:e,tubularSegments:t,radius:i,radialSegments:s,closed:c};const f=e.computeFrenetFrames(t,c);this.tangents=f.tangents,this.normals=f.normals,this.binormals=f.binormals;const h=new q,m=new q,g=new Fe;let y=new q;const _=[],S=[],M=[],A=[];R(),this.setIndex(A),this.setAttribute(
+,this.parameters={geometry:e},e!==null){const t=[],i=new Set,s=new q,c=new q;if(e.index!==null){const f=e.attributes.position,h=e.index;let m=e.groups;m.length===0&&(m=[{start:0,count:h.count,materialIndex:0}]);for(let g=0,y=m.length;g<y;++g){const _=m[g],S=_.start,M=_.count;for(let A=S,R=S+M;A<R;A+=3)for(let C=0;C<3;C++){const T=h.getX(A+C),D=h.getX(A+(C+1)%3);s.fromBufferAttribute(f,T),c.fromBufferAttribute(f,D),GS(s,c,i)===!0&&(t.push(s.x,s.y,s.z),t.push(c.x,c.y,c.z))}}}else{const f=e.attributes.position;for(let h=0,m=f.count/3;h<m;h++)for(let g=0;g<3;g++){const y=3*h+g,_=3*h+(g+1)%3;s.fromBufferAttribute(f,y),c.fromBufferAttribute(f,_),GS(s,c,i)===!0&&(t.push(s.x,s.y,s.z),t.push(c.x,c.y,c.z))}}this.setAttribute(
+}}class j1 extends zs{constructor(e){super(),this.isMeshStandardMaterial=!0,this.type=
+,this.defines={STANDARD:
+},this.color=new gt(16777215),this.roughness=1,this.metalness=0,this.map=null,this.lightMap=null,this.lightMapIntensity=1,this.aoMap=null,this.aoMapIntensity=1,this.emissive=new gt(0),this.emissiveIntensity=1,this.emissiveMap=null,this.bumpMap=null,this.bumpScale=1,this.normalMap=null,this.normalMapType=Bc,this.normalScale=new Fe(1,1),this.displacementMap=null,this.displacementScale=1,this.displacementBias=0,this.roughnessMap=null,this.metalnessMap=null,this.alphaMap=null,this.envMap=null,this.envMapRotation=new Ga,this.envMapIntensity=1,this.wireframe=!1,this.wireframeLinewidth=1,this.wireframeLinecap=
+},this.color.copy(e.color),this.roughness=e.roughness,this.metalness=e.metalness,this.map=e.map,this.lightMap=e.lightMap,this.lightMapIntensity=e.lightMapIntensity,this.aoMap=e.aoMap,this.aoMapIntensity=e.aoMapIntensity,this.emissive.copy(e.emissive),this.emissiveMap=e.emissiveMap,this.emissiveIntensity=e.emissiveIntensity,this.bumpMap=e.bumpMap,this.bumpScale=e.bumpScale,this.normalMap=e.normalMap,this.normalMapType=e.normalMapType,this.normalScale.copy(e.normalScale),this.displacementMap=e.displacementMap,this.displacementScale=e.displacementScale,this.displacementBias=e.displacementBias,this.roughnessMap=e.roughnessMap,this.metalnessMap=e.metalnessMap,this.alphaMap=e.alphaMap,this.envMap=e.envMap,this.envMapRotation.copy(e.envMapRotation),this.envMapIntensity=e.envMapIntensity,this.wireframe=e.wireframe,this.wireframeLinewidth=e.wireframeLinewidth,this.wireframeLinecap=e.wireframeLinecap,this.wireframeLinejoin=e.wireframeLinejoin,this.flatShading=e.flatShading,this.fog=e.fog,this}}class dE extends j1{constructor(e){super(),this.isMeshPhysicalMaterial=!0,this.defines={STANDARD:
+,this.anisotropyRotation=0,this.anisotropyMap=null,this.clearcoatMap=null,this.clearcoatRoughness=0,this.clearcoatRoughnessMap=null,this.clearcoatNormalScale=new Fe(1,1),this.clearcoatNormalMap=null,this.ior=1.5,Object.defineProperty(this,
+},this.anisotropy=e.anisotropy,this.anisotropyRotation=e.anisotropyRotation,this.anisotropyMap=e.anisotropyMap,this.clearcoat=e.clearcoat,this.clearcoatMap=e.clearcoatMap,this.clearcoatRoughness=e.clearcoatRoughness,this.clearcoatRoughnessMap=e.clearcoatRoughnessMap,this.clearcoatNormalMap=e.clearcoatNormalMap,this.clearcoatNormalScale.copy(e.clearcoatNormalScale),this.dispersion=e.dispersion,this.ior=e.ior,this.iridescence=e.iridescence,this.iridescenceMap=e.iridescenceMap,this.iridescenceIOR=e.iridescenceIOR,this.iridescenceThicknessRange=[...e.iridescenceThicknessRange],this.iridescenceThicknessMap=e.iridescenceThicknessMap,this.sheen=e.sheen,this.sheenColor.copy(e.sheenColor),this.sheenColorMap=e.sheenColorMap,this.sheenRoughness=e.sheenRoughness,this.sheenRoughnessMap=e.sheenRoughnessMap,this.transmission=e.transmission,this.transmissionMap=e.transmissionMap,this.thickness=e.thickness,this.thicknessMap=e.thicknessMap,this.attenuationDistance=e.attenuationDistance,this.attenuationColor.copy(e.attenuationColor),this.specularIntensity=e.specularIntensity,this.specularIntensityMap=e.specularIntensityMap,this.specularColor.copy(e.specularColor),this.specularColorMap=e.specularColorMap,this}}class pE extends zs{constructor(e){super(),this.isMeshPhongMaterial=!0,this.type=
+,this.color=new gt(16777215),this.specular=new gt(1118481),this.shininess=30,this.map=null,this.lightMap=null,this.lightMapIntensity=1,this.aoMap=null,this.aoMapIntensity=1,this.emissive=new gt(0),this.emissiveIntensity=1,this.emissiveMap=null,this.bumpMap=null,this.bumpScale=1,this.normalMap=null,this.normalMapType=Bc,this.normalScale=new Fe(1,1),this.displacementMap=null,this.displacementScale=1,this.displacementBias=0,this.specularMap=null,this.alphaMap=null,this.envMap=null,this.envMapRotation=new Ga,this.combine=Am,this.reflectivity=1,this.refractionRatio=.98,this.wireframe=!1,this.wireframeLinewidth=1,this.wireframeLinecap=
+,this.color=new gt(16777215),this.map=null,this.gradientMap=null,this.lightMap=null,this.lightMapIntensity=1,this.aoMap=null,this.aoMapIntensity=1,this.emissive=new gt(0),this.emissiveIntensity=1,this.emissiveMap=null,this.bumpMap=null,this.bumpScale=1,this.normalMap=null,this.normalMapType=Bc,this.normalScale=new Fe(1,1),this.displacementMap=null,this.displacementScale=1,this.displacementBias=0,this.alphaMap=null,this.wireframe=!1,this.wireframeLinewidth=1,this.wireframeLinecap=
+,this.color=new gt(16777215),this.map=null,this.lightMap=null,this.lightMapIntensity=1,this.aoMap=null,this.aoMapIntensity=1,this.emissive=new gt(0),this.emissiveIntensity=1,this.emissiveMap=null,this.bumpMap=null,this.bumpScale=1,this.normalMap=null,this.normalMapType=Bc,this.normalScale=new Fe(1,1),this.displacementMap=null,this.displacementScale=1,this.displacementBias=0,this.specularMap=null,this.alphaMap=null,this.envMap=null,this.envMapRotation=new Ga,this.combine=Am,this.reflectivity=1,this.refractionRatio=.98,this.wireframe=!1,this.wireframeLinewidth=1,this.wireframeLinecap=
+},this.color.copy(e.color),this.matcap=e.matcap,this.map=e.map,this.bumpMap=e.bumpMap,this.bumpScale=e.bumpScale,this.normalMap=e.normalMap,this.normalMapType=e.normalMapType,this.normalScale.copy(e.normalScale),this.displacementMap=e.displacementMap,this.displacementScale=e.displacementScale,this.displacementBias=e.displacementBias,this.alphaMap=e.alphaMap,this.wireframe=e.wireframe,this.wireframeLinewidth=e.wireframeLinewidth,this.flatShading=e.flatShading,this.fog=e.fog,this}}class yE extends ia{constructor(e){super(),this.isLineDashedMaterial=!0,this.type=
+&&new wa().fromArray(R).normalize().conjugate().toArray(R);const C=g.times.length;for(let T=0;T<C;++T){const D=T*M+S;if(m===
+);if(t===void 0||t.length===0)throw new Error(
+,this),e=!1);const i=this.times,s=this.values,c=i.length;c===0&&(wt(
+,this),e=!1);let f=null;for(let h=0;h!==c;h++){const m=i[h];if(typeof m==
+,this,h,m),e=!1;break}if(f!==null&&f>m){wt(
+,this,h,m,f),e=!1;break}f=m}if(s!==void 0&&BT(s))for(let h=0,m=s.length;h!==m;++h){const g=s[h];if(isNaN(g)){wt(
+;yr.prototype.TimeBufferType=Float32Array;yr.prototype.ValueBufferType=Float32Array;yr.prototype.DefaultInterpolation=rv;class af extends yr{constructor(e,t,i){super(e,t,i)}}af.prototype.ValueTypeName=
+;af.prototype.ValueBufferType=Array;af.prototype.DefaultInterpolation=um;af.prototype.InterpolantFactoryMethodLinear=void 0;af.prototype.InterpolantFactoryMethodSmooth=void 0;class Z1 extends yr{constructor(e,t,i,s){super(e,t,i,s)}}Z1.prototype.ValueTypeName=
+;class ym extends yr{constructor(e,t,i,s){super(e,t,i,s)}}ym.prototype.ValueTypeName=
+;Um.prototype.InterpolantFactoryMethodSmooth=void 0;class rf extends yr{constructor(e,t,i){super(e,t,i)}}rf.prototype.ValueTypeName=
+;rf.prototype.ValueBufferType=Array;rf.prototype.DefaultInterpolation=um;rf.prototype.InterpolantFactoryMethodLinear=void 0;rf.prototype.InterpolantFactoryMethodSmooth=void 0;class _m extends yr{constructor(e,t,i,s){super(e,t,i,s)}}_m.prototype.ValueTypeName=
+;class bm{constructor(e=
+,f=e.fps||30,h=e.blendMode;let m=e.length||-1;const g=e.hierarchy||[];for(let _=0;_<g.length;_++){const S=g[_].keys;if(!(!S||S.length===0))if(S[0].morphTargets){const M={};let A;for(A=0;A<S.length;A++)if(S[A].morphTargets)for(let R=0;R<S[A].morphTargets.length;R++)M[S[A].morphTargets[R]]=-1;for(const R in M){const C=[],T=[];for(let D=0;D!==S[A].morphTargets.length;++D){const L=S[A];C.push(L.time),T.push(L.morphTarget===R?1:0)}s.push(new ym(
+,C,T))}m=M.length*f}else{const M=
+);const e=BC(r.type);if(r.times===void 0){const t=[],i=[];q1(r.keys,t,i,
+,this.withCredentials=!1,this.path=
+;const El={};class kC extends Error{constructor(e,t){super(e),this.response=t}}class Rl extends Ca{constructor(e){super(e),this.mimeType=
+,this._abortController=new AbortController}load(e,t,i,s){e===void 0&&(e=
+,signal:typeof AbortSignal.any==
+?AbortSignal.any([this._abortController.signal,this.manager.abortController.signal]):this._abortController.signal}),h=this.mimeType,m=this.responseType;fetch(f).then(g=>{if(g.status===200||g.status===0){if(g.status===0&&lt(
+),typeof ReadableStream>
+ responded with ${g.status}: ${g.statusText}`,g)}).then(g=>{switch(m){case
+MaterialLoader: Undefined texture
+InstancedBufferGeometry
+ObjectLoader: Can't parse 
+THREE.ObjectLoader: Can't load 
+ObjectLoader: Can't load 
+ObjectLoader.parseTexture: Constant should be in numeric form.
+ObjectLoader: Undefined image
+ObjectLoader: Undefined geometry
+ObjectLoader: Undefined material
+ObjectLoader: Undefined texture
+ObjectLoader: No skeleton found with UUID:
+ImageBitmapLoader: createImageBitmap() not supported.
+ImageBitmapLoader: fetch() not supported.
+Audio: Audio is already playing.
+Audio: this Audio has no playback control.
+Audio: Audio source type cannot be copied.
+PropertyBinding: Cannot parse trackName: 
+PropertyBinding: can not parse propertyName from trackName: 
+PropertyBinding: No target node found for track: 
+PropertyBinding: Can not bind to material as node does not have a material.
+PropertyBinding: Can not bind to material.materials as node.material does not have a materials array.
+PropertyBinding: Can not bind to bones as node does not have a skeleton.
+PropertyBinding: Can not bind to material.map as node.material does not have a map.
+PropertyBinding: Can not bind to objectName of node undefined.
+PropertyBinding: Trying to bind to objectIndex of objectName, but is undefined.
+PropertyBinding: Trying to update property for track: 
+ but it wasn't found.
+morphTargetInfluences
+PropertyBinding: Can not bind to morphTargetInfluences because node does not have a geometry.
+PropertyBinding: Can not bind to morphTargetInfluences because node does not have a geometry.morphAttributes.
+AnimationObjectGroup: Different objects with the same UUID detected. Clean the caches or recreate your infrastructure when reloading scenes.
+Raycaster: Unsupported camera type: 
+HemisphereLightHelper
+DirectionalLightHelper
+THREE.CameraHelper.update(): Invalid coordinate system: 
+Controls: connect() now requires an element.
+WARNING: Multiple instances of Three.js being imported.
+THREE.WebGLAttributes: Unsupported buffer data format: 
+THREE.WebGLAttributes: The size of the buffer attribute's array buffer does not match the original size. Resizing buffer attributes is not supported.
+gl_FragColor = linearToOutputTexel( gl_FragColor );
+BackgroundCubeMaterial
+EXT_texture_filter_anisotropic
+EXT_color_buffer_half_float
+EXT_color_buffer_float
+blur direction must be either latitudinal or longitudinal!
+Sampling the GGX Distribution of Visible Normals
+SphericalGaussianBlur
+EquirectangularToCubeUV
+WEBGL_clip_cull_distance
+OES_texture_float_linear
+WEBGL_multisampled_render_to_texture
+WEBGL_render_shared_exponent
+ extension not supported.
+WebGLInfo: Unknown draw mode:
+morphTargetBaseInfluence
+morphTargetsTextureSize
+REINHARD_TONE_MAPPING
+ACES_FILMIC_TONE_MAPPING
+WebGLProgram: Unsupported color space: 
+WebGLProgram: Unsupported toneMapping:
+ToneMapping( color ); }
+float luminance( const in vec3 rgb ) {
+#extension GL_ANGLE_clip_cull_distance : require
+#extension GL_ANGLE_multi_draw : require
+Can not resolve #include <
+ENVMAP_MODE_REFRACTION
+ENVMAP_MODE_REFLECTION
+ENVMAP_BLENDING_MULTIPLY
+#define USE_CLIP_DISTANCE
+#define USE_BATCHING_COLOR
+#define USE_INSTANCING
+#define USE_INSTANCING_COLOR
+#define USE_INSTANCING_MORPH
+#define USE_NORMALMAP
+#define USE_NORMALMAP_OBJECTSPACE
+#define USE_NORMALMAP_TANGENTSPACE
+#define USE_DISPLACEMENTMAP
+#define USE_EMISSIVEMAP
+#define USE_ANISOTROPY
+#define USE_ANISOTROPYMAP
+#define USE_CLEARCOATMAP
+#define USE_CLEARCOAT_ROUGHNESSMAP
+#define USE_CLEARCOAT_NORMALMAP
+#define USE_IRIDESCENCEMAP
+#define USE_IRIDESCENCE_THICKNESSMAP
+#define USE_SPECULARMAP
+#define USE_SPECULAR_COLORMAP
+#define USE_SPECULAR_INTENSITYMAP
+#define USE_ROUGHNESSMAP
+#define USE_METALNESSMAP
+#define USE_ALPHAHASH
+#define USE_TRANSMISSION
+#define USE_TRANSMISSIONMAP
+#define USE_THICKNESSMAP
+#define USE_SHEEN_COLORMAP
+#define USE_SHEEN_ROUGHNESSMAP
+#define EMISSIVEMAP_UV 
+#define NORMALMAP_UV 
+#define DISPLACEMENTMAP_UV 
+#define METALNESSMAP_UV 
+#define ROUGHNESSMAP_UV 
+#define ANISOTROPYMAP_UV 
+#define CLEARCOATMAP_UV 
+#define CLEARCOAT_NORMALMAP_UV 
+#define CLEARCOAT_ROUGHNESSMAP_UV 
+#define IRIDESCENCEMAP_UV 
+#define IRIDESCENCE_THICKNESSMAP_UV 
+#define SHEEN_COLORMAP_UV 
+#define SHEEN_ROUGHNESSMAP_UV 
+#define SPECULARMAP_UV 
+#define SPECULAR_COLORMAP_UV 
+#define SPECULAR_INTENSITYMAP_UV 
+#define TRANSMISSIONMAP_UV 
+#define THICKNESSMAP_UV 
+#define USE_COLOR_ALPHA
+#define USE_POINTS_UV
+#define USE_MORPHTARGETS
+#define USE_MORPHNORMALS
+#define USE_MORPHCOLORS
+#define MORPHTARGETS_TEXTURE_STRIDE 
+#define MORPHTARGETS_COUNT 
+#define USE_SHADOWMAP
+#define USE_SIZEATTENUATION
+#define USE_LIGHT_PROBES
+#define USE_LOGARITHMIC_DEPTH_BUFFER
+#define USE_REVERSED_DEPTH_BUFFER
+uniform mat4 modelMatrix;
+uniform mat4 modelViewMatrix;
+uniform mat4 projectionMatrix;
+uniform mat4 viewMatrix;
+uniform mat3 normalMatrix;
+uniform vec3 cameraPosition;
+uniform bool isOrthographic;
+#ifdef USE_INSTANCING
+	attribute mat4 instanceMatrix;
+#ifdef USE_INSTANCING_COLOR
+	attribute vec3 instanceColor;
+#ifdef USE_INSTANCING_MORPH
+	uniform sampler2D morphTexture;
+attribute vec3 position;
+attribute vec3 normal;
+	attribute vec4 tangent;
+#if defined( USE_COLOR_ALPHA )
+	attribute vec4 color;
+#elif defined( USE_COLOR )
+	attribute vec3 color;
+	attribute vec4 skinIndex;
+	attribute vec4 skinWeight;
+#define ALPHA_TO_COVERAGE
+#define CUBEUV_TEXEL_WIDTH 
+#define CUBEUV_TEXEL_HEIGHT 
+#define CUBEUV_MAX_MIP 
+#define USE_CLEARCOAT
+#define USE_DISPERSION
+#define USE_IRIDESCENCE
+#define USE_ALPHATEST
+#define USE_GRADIENTMAP
+#define PREMULTIPLIED_ALPHA
+#define DECODE_VIDEO_TEXTURE
+#define DECODE_VIDEO_TEXTURE_EMISSIVE
+#define DEPTH_PACKING 
+#define texture2D texture
+layout(location = 0) out highp vec4 pc_fragColor;
+#define gl_FragColor pc_fragColor
+#define gl_FragDepthEXT gl_FragDepth
+#define textureCube texture
+#define texture2DProj textureProj
+#define texture2DLodEXT textureLod
+#define texture2DProjLodEXT textureProjLod
+#define textureCubeLodEXT textureLod
+#define texture2DGradEXT textureGrad
+#define texture2DProjGradEXT textureProjGrad
+#define textureCubeGradEXT textureGrad
+THREE.WebGLProgram: Shader Error 
+WebGLProgram: Program Info Log:
+WebGLProgram.getParameters:
+KHR_parallel_shader_compile
+WebGLShadowMap: PCFSoftShadowMap has been deprecated. Using PCFShadowMap instead.
+WebGLShadowMap: VSM shadow maps are not supported for PointLights. Use PCF or BasicShadowMap instead.
+WebGLState: Invalid blending: 
+WebGLState: SubtractiveBlending requires material.premultipliedAlpha = true
+WebGLState: MultiplyBlending requires material.premultipliedAlpha = true
+WebGLRenderer: Texture has been resized from (
+WebGLRenderer: Image in DataTexture is too big (
+WebGLRenderer: Attempt to use non-existing WebGL internal format '
+DepthTexture: 16 bit depth attachment is not supported with stencil. Using 24-bit attachment.
+WebGLTextures: Trying to use 
+ texture units while this GPU supports only 
+WebGLRenderer: Texture marked for update but no image data found.
+WebGLRenderer: Texture marked for update but image is incomplete
+WebGLRenderer: Unable to use linear filtering with floating point textures. OES_texture_float_linear not supported on this device.
+WebGLRenderer: Attempt to load unsupported compressed texture format in .uploadTexture()
+WebGLRenderer: Attempt to load unsupported compressed texture format in .setTextureCube()
+renderTarget.depthTexture must be an instance of THREE.DepthTexture
+Unknown depthTexture format
+WebGLTextures: sRGB encoded textures have to use RGBAFormat and UnsignedByteType.
+WebGLTextures: Unsupported texture color space:
+WEBGL_compressed_texture_s3tc_srgb
+WEBGL_compressed_texture_s3tc
+WEBGL_compressed_texture_pvrtc
+WEBGL_compressed_texture_etc
+WEBGL_compressed_texture_astc
+EXT_texture_compression_bptc
+EXT_texture_compression_rgtc
+WebXRManager: Cannot change framebuffer scale while presenting.
+WebXRManager: Cannot change reference space type while presenting.
+createProjectionLayer
+WebGLRenderer: Maximum number of simultaneously usable uniforms groups reached.
+WebGLRenderer: Texture samplers can not be part of an uniforms group.
+WebGLRenderer: Unsupported uniform value type.
+THREE.WebGLRenderer: WebGL 1 is not supported since r163.
+webglcontextcreationerror
+Error creating WebGL context with your selected attributes.
+Error creating WebGL context.
+WebGLRenderer: Can't change size while VR device is presenting.
+THREE.WebGLRenderer: setEffects() requires outputBufferType set to HalfFloatType or FloatType.
+THREE.WebGLRenderer: OutputPass is not needed in setEffects(). Tone mapping and color space conversion are applied automatically.
+WebGLRenderer: Context Lost.
+WebGLRenderer: Context Restored.
+WebGLRenderer: A WebGL context could not be created. Reason: 
+WebGLRenderer: renderMultiDrawInstances has been deprecated and will be removed in r184. Append to renderMultiDraw arguments and use indirection.
+WebGLRenderer.render: camera is not an instance of THREE.Camera.
+WebGLRenderTarget: Attached DepthTexture is initialized to the incorrect size.
+WebGLRenderer.readRenderTargetPixels: renderTarget is not THREE.WebGLRenderTarget.
+WebGLRenderer.readRenderTargetPixels: renderTarget is not in RGBA or implementation defined format.
+WebGLRenderer.readRenderTargetPixels: renderTarget is not in UnsignedByteType or implementation defined type.
+THREE.WebGLRenderer.readRenderTargetPixels: renderTarget is not THREE.WebGLRenderTarget.
+THREE.WebGLRenderer.readRenderTargetPixelsAsync: renderTarget is not in RGBA or implementation defined format.
+THREE.WebGLRenderer.readRenderTargetPixelsAsync: renderTarget is not in UnsignedByteType or implementation defined type.
+THREE.WebGLRenderer.readRenderTargetPixelsAsync: requested read bounds are out of range.
+its-fine: useFiber must be called within a <FiberProvider />!
+R3F: Hooks can only be used within the Canvas component!
+unstable_legacy-backwards
+selector.has_pseudo_class
+R3F: Primitives without 'object' are invalid!
+R3F: The args prop must be an array!
+startGestureTransition is not yet supported in react-three-fiber.
+R3F.createRoot should only be called once!
+This browser does not support ResizeObserver out of the box. See: https://github.com/react-spring/react-use-measure/#resize-observer-polyfills
+src/sections/ThreeBackground.tsx:49:5
+src/sections/ThreeBackground.tsx:51:9
+src/sections/ThreeBackground.tsx:52:28
+src/sections/ThreeBackground.tsx:53:28
+src/sections/ThreeBackground.tsx:54:28
+src/sections/ThreeBackground.tsx:55:28
+src/sections/ThreeBackground.tsx:56:11
+src/sections/ThreeBackground.tsx:76:5
+src/sections/ThreeBackground.tsx:77:7
+src/sections/ThreeBackground.tsx:78:9
+src/sections/ThreeBackground.tsx:79:9
+src/sections/ThreeBackground.tsx:81:7
+src/sections/ThreeBackground.tsx:82:9
+src/sections/ThreeBackground.tsx:83:9
+src/sections/ThreeBackground.tsx:85:7
+src/sections/ThreeBackground.tsx:86:9
+src/sections/ThreeBackground.tsx:87:9
+src/sections/ThreeBackground.tsx:89:7
+src/sections/ThreeBackground.tsx:90:9
+src/sections/ThreeBackground.tsx:91:9
+src/sections/ThreeBackground.tsx:93:7
+src/sections/ThreeBackground.tsx:94:9
+src/sections/ThreeBackground.tsx:95:9
+src/sections/ThreeBackground.tsx:97:7
+src/sections/ThreeBackground.tsx:98:9
+src/sections/ThreeBackground.tsx:99:9
+src/sections/ThreeBackground.tsx:101:7
+src/sections/ThreeBackground.tsx:102:9
+src/sections/ThreeBackground.tsx:103:9
+src/sections/ThreeBackground.tsx:105:7
+src/sections/ThreeBackground.tsx:106:9
+src/sections/ThreeBackground.tsx:107:9
+src/sections/ThreeBackground.tsx:109:7
+src/sections/ThreeBackground.tsx:110:9
+src/sections/ThreeBackground.tsx:111:9
+src/sections/ThreeBackground.tsx:113:7
+src/sections/ThreeBackground.tsx:114:9
+src/sections/ThreeBackground.tsx:115:9
+src/sections/ThreeBackground.tsx:155:5
+src/sections/ThreeBackground.tsx:156:7
+src/sections/ThreeBackground.tsx:157:7
+src/sections/ThreeBackground.tsx:166:7
+src/sections/ThreeBackground.tsx:167:7
+src/sections/ThreeBackground.tsx:168:7
+src/sections/ThreeBackground.tsx:169:21
+src/sections/ThreeBackground.tsx:170:7
+src/sections/ThreeBackground.tsx:171:7
+src/sections/ThreeBackground.tsx:172:7
+src/sections/ThreeBackground.tsx:173:7
+src/sections/ThreeBackground.tsx:174:7
+src/sections/ThreeBackground.tsx:184:5
+fixed inset-0 w-full h-screen pointer-events-none overflow-hidden
+src/sections/ThreeBackground.tsx:188:7
+src/sections/ThreeBackground.tsx:194:9
+src/sections/ThreeBackground.tsx:195:11
+http://www.w3.org/2000/svg
+M21.801 10A10 10 0 1 1 17 3.335
+M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6
+M9 13c6.667 0 6.667-10 0-10
+M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0
+M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384
+M13.73 4a2 2 0 0 0-3.46 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z
+M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2
+M16 3.128a4 4 0 0 1 0 7.744
+M22 21v-2a4 4 0 0 0-3-3.87
+src/sections/Navigation.tsx:53:7
+src/sections/Navigation.tsx:58:9
+w-full px-4 md:px-8 lg:px-12 flex items-center justify-between
+src/sections/Navigation.tsx:60:11
+flex items-center gap-3 group
+src/sections/Navigation.tsx:64:13
+src/sections/Navigation.tsx:66:15
+absolute inset-0 bg-[#ed1b76]/30 blur-xl rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-300
+src/sections/Navigation.tsx:67:15
+w-10 h-10 md:w-12 md:h-12
+w-12 h-12 md:w-16 md:h-16
+src/sections/Navigation.tsx:75:13
+font-display text-lg md:text-2xl text-white tracking-wider hidden sm:block group-hover:text-[#ed1b76] transition-colors
+src/sections/Navigation.tsx:81:11
+hidden lg:flex items-center gap-1
+src/sections/Navigation.tsx:83:15
+bg-[#ed1b76] text-white shadow-[0_0_15px_rgba(237,27,118,0.4)]
+text-white/80 hover:text-white hover:bg-white/10
+src/sections/Navigation.tsx:98:11
+lg:hidden w-10 h-10 flex items-center justify-center rounded-full bg-white/10 text-white hover:bg-[#ed1b76] transition-colors
+src/sections/Navigation.tsx:102:33
+src/sections/Navigation.tsx:102:51
+src/sections/Navigation.tsx:108:7
+opacity-100 pointer-events-auto
+opacity-0 pointer-events-none
+src/sections/Navigation.tsx:115:9
+flex flex-col items-center justify-center h-full gap-5 sm:gap-6 px-6
+src/sections/Navigation.tsx:117:11
+src/sections/Navigation.tsx:118:13
+w-20 h-20 sm:w-24 sm:h-24 object-contain rounded-xl shadow-[0_0_30px_rgba(237,27,118,0.4)]
+src/sections/Navigation.tsx:126:13
+text-[#ed1b76] text-glow-pink
+text-white/80 hover:text-white
+src/sections/Navigation.tsx:145:11
+absolute bottom-20 left-10 w-4 h-4 bg-[#ed1b76]/40 rotate-45 animate-pulse
+src/sections/Navigation.tsx:146:11
+absolute top-32 right-10 w-3 h-3 rounded-full bg-[#037a76]/40 animate-pulse
+src/sections/Navigation.tsx:147:11
+absolute bottom-40 right-20 w-2 h-2 bg-[#FFD700]/40 rotate-45 animate-pulse
+src/sections/Hero.tsx:38:5
+flex flex-col items-center
+src/sections/Hero.tsx:39:7
+w-14 h-14 sm:w-16 sm:h-16 md:w-20 md:h-20 lg:w-24 lg:h-24 bg-gradient-to-br from-[#2A2A2A] to-[#1A1A1A] rounded-lg sm:rounded-xl border-2 border-[#ed1b76]/40 flex items-center justify-center mb-1.5 sm:mb-2 shadow-[0_0_20px_rgba(237,27,118,0.3)]
+src/sections/Hero.tsx:40:9
+font-mono-custom text-xl sm:text-2xl md:text-3xl lg:text-4xl text-white font-bold
+src/sections/Hero.tsx:44:7
+font-mono-custom text-[9px] sm:text-[10px] md:text-xs text-white/60 uppercase tracking-wider leading-tight
+src/sections/Hero.tsx:51:5
+flex items-center gap-2 sm:gap-3 md:gap-4 lg:gap-6 flex-wrap justify-center
+src/sections/Hero.tsx:52:7
+src/sections/Hero.tsx:53:7
+text-xl md:text-3xl text-[#ed1b76] font-mono-custom
+src/sections/Hero.tsx:54:7
+src/sections/Hero.tsx:55:7
+src/sections/Hero.tsx:56:7
+src/sections/Hero.tsx:57:7
+src/sections/Hero.tsx:58:7
+src/sections/Hero.tsx:89:5
+relative w-full min-h-screen flex items-center justify-center overflow-hidden pt-20 pb-6
+src/sections/Hero.tsx:94:7
+absolute inset-0 bg-gradient-to-b from-transparent via-[#1A1A1A]/40 to-[#1A1A1A] z-[1] pointer-events-none
+src/sections/Hero.tsx:97:7
+hero-content relative z-10 w-full px-5 sm:px-6 md:px-8 lg:px-12 flex flex-col items-center text-center py-8 sm:py-10 md:py-12 rounded-2xl
+rgba(26, 26, 26, 0.25)
+src/sections/Hero.tsx:100:9
+font-heading text-[16px] sm:text-[20px] md:text-[26px] lg:text-[32px] text-[#037a76] tracking-[1px] sm:tracking-[2px] md:tracking-[4px] mb-4 md:mb-5 uppercase font-semibold leading-[1.4] sm:leading-[1.5] px-2
+src/sections/Hero.tsx:105:9
+font-body text-[15px] sm:text-[18px] md:text-[22px] lg:text-[28px] text-white/70 tracking-[1px] sm:tracking-[2px] md:tracking-[3px] mb-5 md:mb-7 font-medium leading-[1.5] sm:leading-[1.6] px-2
+src/sections/Hero.tsx:110:9
+font-body text-[14px] sm:text-[16px] md:text-[20px] lg:text-[22px] text-[#FFD700] tracking-[2px] sm:tracking-[3px] md:tracking-[6px] mb-6 md:mb-8 italic animate-pulse leading-[1.6] sm:leading-[1.7] px-2
+src/sections/Hero.tsx:115:9
+0 0 30px rgba(237, 27, 118, 0.8), 0 0 60px rgba(237, 27, 118, 0.5), 0 0 90px rgba(237, 27, 118, 0.3)
+src/sections/Hero.tsx:125:9
+mb-8 sm:mb-10 md:mb-12
+src/sections/Hero.tsx:126:11
+font-mono-custom text-[10px] sm:text-[11px] text-white/50 mb-3 sm:mb-4 tracking-widest uppercase
+src/sections/Hero.tsx:129:11
+src/sections/Hero.tsx:133:9
+btn-primary px-8 sm:px-12 md:px-16 lg:px-20 py-4 sm:py-5 md:py-6 rounded-full font-display text-base sm:text-lg md:text-xl lg:text-2xl tracking-wider text-white mb-6 sm:mb-8 md:mb-10 animate-pulse shadow-[0_0_40px_rgba(237,27,118,0.5)] border-2 border-white/20 w-[85%] sm:w-auto max-w-[320px] sm:max-w-none
+src/sections/Hero.tsx:141:9
+absolute bottom-4 sm:bottom-6 left-1/2 -translate-x-1/2 flex flex-col items-center
+src/sections/Hero.tsx:142:11
+font-mono-custom text-[10px] text-white/40 mb-1 tracking-widest
+src/sections/Hero.tsx:145:11
+w-5 h-5 text-[#ed1b76] animate-bounce-down
+src/sections/Hero.tsx:150:7
+absolute bottom-16 left-8 w-0 h-0 border-l-[12px] border-l-transparent border-r-[12px] border-r-transparent border-b-[20px] border-b-[#ed1b76]/20 rotate-slow
+src/sections/Hero.tsx:151:7
+absolute top-32 right-12 w-5 h-5 rounded-full border-2 border-[#037a76]/30 rotate-slow
+src/sections/Hero.tsx:152:7
+absolute bottom-32 right-16 w-3 h-3 bg-[#FFD700]/20 rotate-45
+src/sections/Hero.tsx:153:7
+absolute top-1/3 left-12 w-2 h-2 bg-[#ed1b76]/30 rounded-full animate-pulse
+src/sections/About.tsx:53:5
+src/sections/About.tsx:54:7
+font-mono-custom text-3xl md:text-4xl lg:text-5xl text-[#ed1b76] mb-1
+src/sections/About.tsx:58:7
+font-body text-xs md:text-sm text-white/60
+src/sections/About.tsx:65:5
+relative w-full pt-10 sm:pt-12 md:pt-16 pb-16 sm:pb-24 md:pb-36 -mt-4
+rgba(26, 26, 26, 0.97)
+src/sections/About.tsx:67:7
+absolute inset-0 opacity-5
+src/sections/About.tsx:68:9
+radial-gradient(circle at 2px 2px, #ed1b76 1px, transparent 0)
+src/sections/About.tsx:77:7
+relative z-10 w-full px-4 sm:px-6 md:px-8 lg:px-12
+src/sections/About.tsx:79:9
+text-center mb-12 sm:mb-16 md:mb-20
+src/sections/About.tsx:80:11
+font-mono-custom text-xs sm:text-sm text-[#037a76] tracking-widest mb-3 sm:mb-4
+src/sections/About.tsx:83:11
+font-display text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-white tracking-wider leading-[1.3]
+src/sections/About.tsx:84:22
+src/sections/About.tsx:89:9
+grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-0 max-w-7xl mx-auto
+src/sections/About.tsx:91:11
+relative glass-pink rounded-2xl p-6 sm:p-8 md:p-12 lg:rounded-r-none
+src/sections/About.tsx:93:13
+absolute -top-4 left-8
+src/sections/About.tsx:94:15
+w-8 h-8 flex items-center justify-center
+src/sections/About.tsx:95:17
+w-6 h-6 text-[#ed1b76] fill-[#ed1b76]
+src/sections/About.tsx:99:13
+font-display text-xl sm:text-2xl md:text-3xl lg:text-4xl text-white mb-4 sm:mb-6 tracking-wider leading-[1.3]
+src/sections/About.tsx:103:13
+space-y-4 text-white/80 font-body text-xs sm:text-sm md:text-base lg:text-lg leading-[1.7] sm:leading-[1.8] md:leading-relaxed whitespace-pre-line
+src/sections/About.tsx:108:13
+absolute bottom-0 left-0 w-full h-1 bg-gradient-to-r from-[#ed1b76] to-transparent
+src/sections/About.tsx:112:11
+hidden lg:block absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-px h-3/4 bg-gradient-to-b from-transparent via-[#ed1b76] to-[#037a76]
+src/sections/About.tsx:115:11
+relative glass-green rounded-2xl p-6 sm:p-8 md:p-12 lg:rounded-l-none
+src/sections/About.tsx:117:13
+src/sections/About.tsx:118:15
+src/sections/About.tsx:119:17
+w-6 h-6 text-[#037a76]
+src/sections/About.tsx:123:13
+font-display text-xl sm:text-2xl md:text-3xl lg:text-4xl text-white mb-2 tracking-wider leading-[1.3]
+src/sections/About.tsx:126:13
+font-heading text-base sm:text-lg md:text-xl lg:text-2xl text-[#037a76] tracking-wider mb-4 sm:mb-6 leading-[1.4]
+src/sections/About.tsx:130:13
+space-y-4 text-white/80 font-body text-xs sm:text-sm md:text-base lg:text-lg leading-[1.7] sm:leading-[1.8] md:leading-relaxed whitespace-pre-line mb-6 sm:mb-8
+src/sections/About.tsx:136:15
+grid grid-cols-2 md:grid-cols-4 gap-4 pt-6 border-t border-white/10
+src/sections/About.tsx:138:19
+src/sections/About.tsx:144:13
+absolute bottom-0 left-0 w-full h-1 bg-gradient-to-r from-transparent to-[#037a76]
+src/sections/About.tsx:150:7
+absolute top-20 right-10 w-4 h-4 bg-[#ed1b76]/20 rotate-45
+src/sections/About.tsx:151:7
+absolute bottom-20 left-10 w-3 h-3 rounded-full border border-[#037a76]/30
+src/sections/EventsOverview.tsx:20:5
+src/sections/EventsOverview.tsx:29:7
+radial-gradient(circle at 50% 50%, rgba(237, 27, 118, 0.15), transparent 70%)
+radial-gradient(circle at 50% 50%, rgba(3, 122, 118, 0.15), transparent 70%)
+src/sections/EventsOverview.tsx:41:7
+relative z-10 flex justify-center mb-6
+src/sections/EventsOverview.tsx:42:9
+src/sections/EventsOverview.tsx:48:13
+src/sections/EventsOverview.tsx:54:13
+src/sections/EventsOverview.tsx:65:7
+relative z-10 text-center
+src/sections/EventsOverview.tsx:67:9
+bg-[#ed1b76]/20 text-[#ed1b76] border border-[#ed1b76]/30
+bg-[#037a76]/20 text-[#037a76] border border-[#037a76]/30
+src/sections/EventsOverview.tsx:78:9
+font-display text-xl sm:text-2xl md:text-3xl lg:text-4xl text-white tracking-wider mb-2 leading-[1.3] break-words
+src/sections/EventsOverview.tsx:83:9
+src/sections/EventsOverview.tsx:92:9
+font-body text-xs sm:text-sm md:text-base lg:text-lg text-white/70 mb-6 sm:mb-8 max-w-sm mx-auto leading-[1.7] sm:leading-[1.8]
+src/sections/EventsOverview.tsx:97:9
+bg-[#ed1b76] text-white hover:bg-[#f73d8e]
+bg-[#037a76] text-white hover:bg-[#249f9c]
+src/sections/EventsOverview.tsx:105:11
+src/sections/EventsOverview.tsx:110:7
+bg-[#ed1b76]/30 rotate-45
+border-2 border-[#037a76]/30 rounded-full
+src/sections/EventsOverview.tsx:115:7
+border-2 border-[#ed1b76]/30 rounded-full
+bg-[#037a76]/30 rotate-45
+src/sections/EventsOverview.tsx:158:5
+relative w-full py-16 sm:py-24 md:py-36
+linear-gradient(to bottom, rgba(26,26,26,0.97), rgba(15,15,15,0.97))
+src/sections/EventsOverview.tsx:165:7
+src/sections/EventsOverview.tsx:166:9
+linear-gradient(45deg, #ed1b76 25%, transparent 25%), linear-gradient(-45deg, #ed1b76 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #037a76 75%), linear-gradient(-45deg, transparent 75%, #037a76 75%)
+0 0, 0 30px, 30px -30px, -30px 0px
+src/sections/EventsOverview.tsx:176:7
+src/sections/EventsOverview.tsx:178:9
+opacity-100 translate-y-0
+opacity-0 translate-y-10
+src/sections/EventsOverview.tsx:183:11
+font-mono-custom text-xs sm:text-sm text-[#ed1b76] tracking-widest mb-2
+src/sections/EventsOverview.tsx:186:11
+font-display text-3xl sm:text-4xl md:text-5xl lg:text-6xl gradient-text tracking-wider leading-[1.3]
+src/sections/EventsOverview.tsx:192:9
+grid grid-cols-1 lg:grid-cols-2 gap-12 max-w-6xl mx-auto
+src/sections/EventsOverview.tsx:194:11
+opacity-100 translate-x-0
+opacity-0 -translate-x-20
+src/sections/EventsOverview.tsx:199:13
+src/sections/EventsOverview.tsx:211:11
+opacity-0 translate-x-20
+src/sections/EventsOverview.tsx:216:13
+src/sections/EventsOverview.tsx:229:9
+flex justify-center gap-8 mt-16
+src/sections/EventsOverview.tsx:231:13
+src/sections/EventsOverview.tsx:245:7
+absolute top-20 left-10 w-0 h-0 border-l-[10px] border-l-transparent border-r-[10px] border-r-transparent border-b-[17px] border-b-[#ed1b76]/10
+src/sections/EventsOverview.tsx:246:7
+absolute bottom-20 right-10 w-4 h-4 rounded-full border-2 border-[#037a76]/20
+src/sections/TechnicalEvents.tsx:16:5
+opacity-0 translate-y-20
+src/sections/TechnicalEvents.tsx:24:7
+src/sections/TechnicalEvents.tsx:30:9
+absolute top-3 right-3 sm:top-4 sm:right-4
+src/sections/TechnicalEvents.tsx:31:11
+player-badge w-10 h-10 sm:w-12 sm:h-12 rounded-full flex items-center justify-center
+src/sections/TechnicalEvents.tsx:32:13
+font-mono-custom text-xs sm:text-sm md:text-base text-white
+src/sections/TechnicalEvents.tsx:37:9
+text-3xl sm:text-4xl mb-1 sm:mb-2 leading-none
+src/sections/TechnicalEvents.tsx:40:9
+font-display text-lg sm:text-xl md:text-2xl text-white tracking-wider mb-1 leading-[1.3] sm:leading-[1.4] break-words
+src/sections/TechnicalEvents.tsx:45:9
+font-heading text-xs sm:text-sm text-[#ed1b76] tracking-wider mb-1 sm:mb-2 leading-[1.5]
+src/sections/TechnicalEvents.tsx:50:9
+font-body text-xs sm:text-sm text-white/70 mb-3 sm:mb-4 leading-[1.7] sm:leading-[1.8]
+src/sections/TechnicalEvents.tsx:53:9
+grid grid-cols-2 gap-2 sm:gap-3 mb-4 sm:mb-6
+src/sections/TechnicalEvents.tsx:54:11
+flex items-center gap-1.5 sm:gap-2 text-[11px] sm:text-xs text-white/60
+src/sections/TechnicalEvents.tsx:55:13
+w-3 h-3 text-[#ed1b76] flex-shrink-0
+src/sections/TechnicalEvents.tsx:56:13
+src/sections/TechnicalEvents.tsx:58:11
+src/sections/TechnicalEvents.tsx:59:13
+src/sections/TechnicalEvents.tsx:60:13
+src/sections/TechnicalEvents.tsx:62:11
+src/sections/TechnicalEvents.tsx:63:13
+src/sections/TechnicalEvents.tsx:64:13
+src/sections/TechnicalEvents.tsx:66:11
+src/sections/TechnicalEvents.tsx:67:13
+src/sections/TechnicalEvents.tsx:68:13
+truncate leading-[1.4]
+src/sections/TechnicalEvents.tsx:73:9
+w-full flex items-center justify-center gap-2 py-2.5 sm:py-3 rounded-full bg-[#ed1b76]/20 border border-[#ed1b76]/40 text-[#ed1b76] font-display text-xs sm:text-sm tracking-wider transition-all duration-300 hover:bg-[#ed1b76] hover:text-white group/btn mt-auto
+src/sections/TechnicalEvents.tsx:78:11
+w-4 h-4 transition-transform group-hover/btn:translate-x-1
+src/sections/TechnicalEvents.tsx:82:9
+absolute bottom-0 right-0 w-16 h-16 bg-gradient-to-tl from-[#ed1b76]/10 to-transparent rounded-tl-full
+src/sections/TechnicalEvents.tsx:98:5
+src/sections/TechnicalEvents.tsx:104:7
+absolute inset-0 modal-overlay
+src/sections/TechnicalEvents.tsx:107:7
+scale-100 translate-y-0
+scale-95 translate-y-10
+src/sections/TechnicalEvents.tsx:113:9
+sticky top-0 bg-[#1A1A1A] border-b border-[#ed1b76]/30 p-4 sm:p-6 flex items-start justify-between z-10
+src/sections/TechnicalEvents.tsx:114:11
+flex items-center gap-3 sm:gap-4 min-w-0
+src/sections/TechnicalEvents.tsx:115:13
+player-badge w-10 h-10 sm:w-14 sm:h-14 rounded-full flex items-center justify-center flex-shrink-0
+src/sections/TechnicalEvents.tsx:116:15
+font-mono-custom text-sm sm:text-lg text-white
+src/sections/TechnicalEvents.tsx:118:13
+src/sections/TechnicalEvents.tsx:119:15
+font-display text-xl sm:text-2xl md:text-3xl text-white tracking-wider leading-[1.3] break-words
+src/sections/TechnicalEvents.tsx:122:15
+font-heading text-xs sm:text-sm text-[#ed1b76] tracking-wider leading-[1.5] mt-1
+src/sections/TechnicalEvents.tsx:127:11
+w-8 h-8 sm:w-10 sm:h-10 rounded-full bg-white/10 flex items-center justify-center text-white hover:bg-[#ed1b76] transition-colors flex-shrink-0 ml-2
+src/sections/TechnicalEvents.tsx:136:9
+p-5 sm:p-8 space-y-6 sm:space-y-8
+src/sections/TechnicalEvents.tsx:138:11
+src/sections/TechnicalEvents.tsx:139:13
+font-body text-sm sm:text-base text-white/80 leading-[1.7] sm:leading-[1.8]
+src/sections/TechnicalEvents.tsx:143:11
+glass-pink rounded-xl p-6
+src/sections/TechnicalEvents.tsx:144:13
+font-display text-sm text-[#ed1b76] tracking-wider mb-3
+src/sections/TechnicalEvents.tsx:147:13
+grid grid-cols-2 md:grid-cols-3 gap-4
+src/sections/TechnicalEvents.tsx:148:15
+flex items-center gap-2
+src/sections/TechnicalEvents.tsx:149:17
+w-4 h-4 text-[#ed1b76]
+src/sections/TechnicalEvents.tsx:150:17
+text-sm text-white/70
+src/sections/TechnicalEvents.tsx:152:15
+src/sections/TechnicalEvents.tsx:153:17
+src/sections/TechnicalEvents.tsx:154:17
+src/sections/TechnicalEvents.tsx:156:15
+src/sections/TechnicalEvents.tsx:157:17
+src/sections/TechnicalEvents.tsx:158:17
+src/sections/TechnicalEvents.tsx:160:15
+src/sections/TechnicalEvents.tsx:161:17
+src/sections/TechnicalEvents.tsx:162:17
+src/sections/TechnicalEvents.tsx:164:15
+src/sections/TechnicalEvents.tsx:165:17
+src/sections/TechnicalEvents.tsx:166:17
+src/sections/TechnicalEvents.tsx:173:13
+src/sections/TechnicalEvents.tsx:174:15
+src/sections/TechnicalEvents.tsx:175:15
+src/sections/TechnicalEvents.tsx:177:19
+flex items-start gap-2 text-sm text-white/70
+src/sections/TechnicalEvents.tsx:178:21
+src/sections/TechnicalEvents.tsx:188:13
+src/sections/TechnicalEvents.tsx:189:15
+src/sections/TechnicalEvents.tsx:192:15
+src/sections/TechnicalEvents.tsx:194:19
+src/sections/TechnicalEvents.tsx:195:21
+src/sections/TechnicalEvents.tsx:205:13
+src/sections/TechnicalEvents.tsx:206:15
+src/sections/TechnicalEvents.tsx:207:15
+src/sections/TechnicalEvents.tsx:209:19
+glass-pink rounded-lg p-3
+src/sections/TechnicalEvents.tsx:210:21
+flex items-center justify-between mb-1
+src/sections/TechnicalEvents.tsx:211:23
+font-heading text-sm text-white
+src/sections/TechnicalEvents.tsx:212:23
+font-mono-custom text-xs text-[#ed1b76]
+src/sections/TechnicalEvents.tsx:217:23
+text-xs text-white/60
+src/sections/TechnicalEvents.tsx:227:13
+src/sections/TechnicalEvents.tsx:228:15
+src/sections/TechnicalEvents.tsx:231:15
+src/sections/TechnicalEvents.tsx:233:19
+src/sections/TechnicalEvents.tsx:234:21
+src/sections/TechnicalEvents.tsx:244:13
+src/sections/TechnicalEvents.tsx:245:15
+src/sections/TechnicalEvents.tsx:248:15
+grid grid-cols-2 md:grid-cols-3 gap-3
+src/sections/TechnicalEvents.tsx:250:19
+glass-pink rounded-lg p-3 text-center
+src/sections/TechnicalEvents.tsx:251:21
+font-mono-custom text-lg text-[#ed1b76]
+src/sections/TechnicalEvents.tsx:252:21
+src/sections/TechnicalEvents.tsx:260:11
+glass-pink rounded-xl p-4
+src/sections/TechnicalEvents.tsx:261:13
+src/sections/TechnicalEvents.tsx:262:13
+flex flex-col md:flex-row gap-4
+src/sections/TechnicalEvents.tsx:263:15
+flex items-center gap-3
+src/sections/TechnicalEvents.tsx:264:17
+src/sections/TechnicalEvents.tsx:265:17
+src/sections/TechnicalEvents.tsx:266:19
+src/sections/TechnicalEvents.tsx:267:19
+src/sections/TechnicalEvents.tsx:270:15
+src/sections/TechnicalEvents.tsx:271:17
+src/sections/TechnicalEvents.tsx:272:17
+src/sections/TechnicalEvents.tsx:273:19
+src/sections/TechnicalEvents.tsx:274:19
+src/sections/TechnicalEvents.tsx:281:11
+src/sections/TechnicalEvents.tsx:282:13
+src/sections/TechnicalEvents.tsx:285:13
+src/sections/TechnicalEvents.tsx:286:15
+src/sections/TechnicalEvents.tsx:287:17
+src/sections/TechnicalEvents.tsx:288:17
+src/sections/TechnicalEvents.tsx:289:19
+src/sections/TechnicalEvents.tsx:290:19
+text-xs text-white/50
+src/sections/TechnicalEvents.tsx:293:15
+src/sections/TechnicalEvents.tsx:294:17
+src/sections/TechnicalEvents.tsx:295:17
+src/sections/TechnicalEvents.tsx:296:19
+src/sections/TechnicalEvents.tsx:297:19
+src/sections/TechnicalEvents.tsx:304:11
+src/sections/TechnicalEvents.tsx:305:13
+src/sections/TechnicalEvents.tsx:308:13
+src/sections/TechnicalEvents.tsx:310:17
+src/sections/TechnicalEvents.tsx:311:19
+src/sections/TechnicalEvents.tsx:312:19
+src/sections/TechnicalEvents.tsx:313:21
+src/sections/TechnicalEvents.tsx:315:23
+text-xs text-[#037a76] hover:underline
+src/sections/TechnicalEvents.tsx:329:11
+block w-full py-4 rounded-full bg-[#ed1b76] text-white font-display text-lg tracking-wider text-center transition-all duration-300 hover:bg-[#f73d8e] hover:shadow-[0_0_30px_rgba(237,27,118,0.5)]
+src/sections/TechnicalEvents.tsx:391:7
+rgba(15, 15, 15, 0.97)
+src/sections/TechnicalEvents.tsx:398:9
+src/sections/TechnicalEvents.tsx:399:11
+repeating-linear-gradient(45deg, #ed1b76 0, #ed1b76 1px, transparent 0, transparent 50%)
+src/sections/TechnicalEvents.tsx:408:9
+src/sections/TechnicalEvents.tsx:410:11
+src/sections/TechnicalEvents.tsx:415:13
+src/sections/TechnicalEvents.tsx:418:13
+font-display text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-white tracking-wider mb-3 sm:mb-4 leading-[1.3]
+src/sections/TechnicalEvents.tsx:419:25
+src/sections/TechnicalEvents.tsx:421:13
+font-body text-sm sm:text-base md:text-lg text-white/60 leading-[1.6]
+⚙️ From Thought to Technology, Ideas Take Shape ⚙️
+src/sections/TechnicalEvents.tsx:427:11
+grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-6 md:gap-8 max-w-7xl mx-auto
+src/sections/TechnicalEvents.tsx:429:15
+src/sections/TechnicalEvents.tsx:441:9
+absolute top-20 right-10 w-0 h-0 border-l-[15px] border-l-transparent border-r-[15px] border-r-transparent border-b-[25px] border-b-[#ed1b76]/10 rotate-12
+src/sections/TechnicalEvents.tsx:442:9
+absolute bottom-20 left-10 w-4 h-4 bg-[#FFD700]/10 rotate-45
+src/sections/TechnicalEvents.tsx:446:7
+src/sections/NonTechnicalEvents.tsx:16:5
+src/sections/NonTechnicalEvents.tsx:24:7
+src/sections/NonTechnicalEvents.tsx:30:9
+src/sections/NonTechnicalEvents.tsx:31:11
+w-10 h-10 sm:w-12 sm:h-12 rounded-full flex items-center justify-center border-2 border-[#037a76]
+linear-gradient(135deg, #037a76 0%, #249f9c 100%)
+0 0 15px rgba(3, 122, 118, 0.5)
+src/sections/NonTechnicalEvents.tsx:38:13
+src/sections/NonTechnicalEvents.tsx:43:9
+src/sections/NonTechnicalEvents.tsx:46:9
+src/sections/NonTechnicalEvents.tsx:51:9
+font-heading text-xs sm:text-sm text-[#037a76] tracking-wider mb-1 sm:mb-2 leading-[1.5]
+src/sections/NonTechnicalEvents.tsx:56:9
+src/sections/NonTechnicalEvents.tsx:59:9
+src/sections/NonTechnicalEvents.tsx:60:11
+src/sections/NonTechnicalEvents.tsx:61:13
+w-3 h-3 text-[#037a76] flex-shrink-0
+src/sections/NonTechnicalEvents.tsx:62:13
+src/sections/NonTechnicalEvents.tsx:64:11
+src/sections/NonTechnicalEvents.tsx:65:13
+src/sections/NonTechnicalEvents.tsx:66:13
+src/sections/NonTechnicalEvents.tsx:68:11
+src/sections/NonTechnicalEvents.tsx:69:13
+src/sections/NonTechnicalEvents.tsx:70:13
+src/sections/NonTechnicalEvents.tsx:72:11
+src/sections/NonTechnicalEvents.tsx:73:13
+src/sections/NonTechnicalEvents.tsx:74:13
+src/sections/NonTechnicalEvents.tsx:79:9
+w-full flex items-center justify-center gap-2 py-2.5 sm:py-3 rounded-full bg-[#037a76]/20 border border-[#037a76]/40 text-[#037a76] font-display text-xs sm:text-sm tracking-wider transition-all duration-300 hover:bg-[#037a76] hover:text-white group/btn mt-auto
+src/sections/NonTechnicalEvents.tsx:84:11
+src/sections/NonTechnicalEvents.tsx:88:9
+absolute bottom-0 right-0 w-16 h-16 bg-gradient-to-tl from-[#037a76]/10 to-transparent rounded-tl-full
+src/sections/NonTechnicalEvents.tsx:104:5
+src/sections/NonTechnicalEvents.tsx:110:7
+src/sections/NonTechnicalEvents.tsx:113:7
+src/sections/NonTechnicalEvents.tsx:119:9
+sticky top-0 bg-[#1A1A1A] border-b border-[#037a76]/30 p-4 sm:p-6 flex items-start justify-between z-10
+src/sections/NonTechnicalEvents.tsx:120:11
+src/sections/NonTechnicalEvents.tsx:121:13
+w-10 h-10 sm:w-14 sm:h-14 rounded-full flex items-center justify-center flex-shrink-0 border-2 border-[#037a76]
+src/sections/NonTechnicalEvents.tsx:128:15
+src/sections/NonTechnicalEvents.tsx:130:13
+src/sections/NonTechnicalEvents.tsx:131:15
+src/sections/NonTechnicalEvents.tsx:134:15
+font-heading text-xs sm:text-sm text-[#037a76] tracking-wider leading-[1.5] mt-1
+src/sections/NonTechnicalEvents.tsx:139:11
+w-8 h-8 sm:w-10 sm:h-10 rounded-full bg-white/10 flex items-center justify-center text-white hover:bg-[#037a76] transition-colors flex-shrink-0 ml-2
+src/sections/NonTechnicalEvents.tsx:148:9
+src/sections/NonTechnicalEvents.tsx:150:11
+src/sections/NonTechnicalEvents.tsx:151:13
+src/sections/NonTechnicalEvents.tsx:155:11
+glass-green rounded-xl p-6
+src/sections/NonTechnicalEvents.tsx:156:13
+font-display text-sm text-[#037a76] tracking-wider mb-3
+src/sections/NonTechnicalEvents.tsx:159:13
+src/sections/NonTechnicalEvents.tsx:160:15
+src/sections/NonTechnicalEvents.tsx:161:17
+w-4 h-4 text-[#037a76]
+src/sections/NonTechnicalEvents.tsx:162:17
+src/sections/NonTechnicalEvents.tsx:164:15
+src/sections/NonTechnicalEvents.tsx:165:17
+src/sections/NonTechnicalEvents.tsx:166:17
+src/sections/NonTechnicalEvents.tsx:168:15
+src/sections/NonTechnicalEvents.tsx:169:17
+src/sections/NonTechnicalEvents.tsx:170:17
+src/sections/NonTechnicalEvents.tsx:172:15
+src/sections/NonTechnicalEvents.tsx:173:17
+src/sections/NonTechnicalEvents.tsx:174:17
+src/sections/NonTechnicalEvents.tsx:176:15
+src/sections/NonTechnicalEvents.tsx:177:17
+src/sections/NonTechnicalEvents.tsx:178:17
+src/sections/NonTechnicalEvents.tsx:185:13
+src/sections/NonTechnicalEvents.tsx:186:15
+src/sections/NonTechnicalEvents.tsx:187:15
+src/sections/NonTechnicalEvents.tsx:189:19
+src/sections/NonTechnicalEvents.tsx:190:21
+src/sections/NonTechnicalEvents.tsx:200:13
+src/sections/NonTechnicalEvents.tsx:201:15
+src/sections/NonTechnicalEvents.tsx:202:15
+src/sections/NonTechnicalEvents.tsx:204:19
+glass-green rounded-lg p-3
+src/sections/NonTechnicalEvents.tsx:205:21
+src/sections/NonTechnicalEvents.tsx:206:23
+src/sections/NonTechnicalEvents.tsx:207:23
+font-mono-custom text-xs text-[#037a76]
+src/sections/NonTechnicalEvents.tsx:212:23
+src/sections/NonTechnicalEvents.tsx:222:13
+src/sections/NonTechnicalEvents.tsx:223:15
+src/sections/NonTechnicalEvents.tsx:224:15
+src/sections/NonTechnicalEvents.tsx:226:19
+src/sections/NonTechnicalEvents.tsx:227:21
+font-heading text-sm text-white mb-1
+src/sections/NonTechnicalEvents.tsx:228:21
+src/sections/NonTechnicalEvents.tsx:237:13
+src/sections/NonTechnicalEvents.tsx:238:15
+src/sections/NonTechnicalEvents.tsx:241:15
+src/sections/NonTechnicalEvents.tsx:243:19
+src/sections/NonTechnicalEvents.tsx:244:21
+src/sections/NonTechnicalEvents.tsx:253:11
+glass-green rounded-xl p-4
+src/sections/NonTechnicalEvents.tsx:254:13
+src/sections/NonTechnicalEvents.tsx:255:13
+src/sections/NonTechnicalEvents.tsx:256:15
+src/sections/NonTechnicalEvents.tsx:257:17
+src/sections/NonTechnicalEvents.tsx:258:17
+src/sections/NonTechnicalEvents.tsx:259:19
+src/sections/NonTechnicalEvents.tsx:260:19
+src/sections/NonTechnicalEvents.tsx:263:15
+src/sections/NonTechnicalEvents.tsx:264:17
+src/sections/NonTechnicalEvents.tsx:265:17
+src/sections/NonTechnicalEvents.tsx:266:19
+src/sections/NonTechnicalEvents.tsx:267:19
+src/sections/NonTechnicalEvents.tsx:274:11
+src/sections/NonTechnicalEvents.tsx:275:13
+src/sections/NonTechnicalEvents.tsx:278:13
+src/sections/NonTechnicalEvents.tsx:279:15
+src/sections/NonTechnicalEvents.tsx:280:17
+src/sections/NonTechnicalEvents.tsx:281:17
+src/sections/NonTechnicalEvents.tsx:282:19
+src/sections/NonTechnicalEvents.tsx:283:19
+src/sections/NonTechnicalEvents.tsx:286:15
+src/sections/NonTechnicalEvents.tsx:287:17
+src/sections/NonTechnicalEvents.tsx:288:17
+src/sections/NonTechnicalEvents.tsx:289:19
+src/sections/NonTechnicalEvents.tsx:290:19
+src/sections/NonTechnicalEvents.tsx:297:11
+src/sections/NonTechnicalEvents.tsx:298:13
+src/sections/NonTechnicalEvents.tsx:301:13
+src/sections/NonTechnicalEvents.tsx:303:17
+src/sections/NonTechnicalEvents.tsx:304:19
+src/sections/NonTechnicalEvents.tsx:305:19
+src/sections/NonTechnicalEvents.tsx:306:21
+src/sections/NonTechnicalEvents.tsx:308:23
+text-xs text-[#ed1b76] hover:underline
+src/sections/NonTechnicalEvents.tsx:322:11
+block w-full py-4 rounded-full bg-[#037a76] text-white font-display text-lg tracking-wider text-center transition-all duration-300 hover:bg-[#249f9c] hover:shadow-[0_0_30px_rgba(3,122,118,0.5)]
+src/sections/NonTechnicalEvents.tsx:384:7
+src/sections/NonTechnicalEvents.tsx:391:9
+src/sections/NonTechnicalEvents.tsx:392:11
+repeating-linear-gradient(-45deg, #037a76 0, #037a76 1px, transparent 0, transparent 50%)
+src/sections/NonTechnicalEvents.tsx:401:9
+src/sections/NonTechnicalEvents.tsx:403:11
+src/sections/NonTechnicalEvents.tsx:408:13
+font-mono-custom text-xs sm:text-sm text-[#037a76] tracking-widest mb-2
+src/sections/NonTechnicalEvents.tsx:411:13
+src/sections/NonTechnicalEvents.tsx:412:29
+src/sections/NonTechnicalEvents.tsx:414:13
+⚡ Strategy, Sports & Survival ⚡
+src/sections/NonTechnicalEvents.tsx:418:11
+grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5 sm:gap-6 md:gap-8 max-w-6xl mx-auto
+src/sections/NonTechnicalEvents.tsx:420:15
+src/sections/NonTechnicalEvents.tsx:432:9
+absolute top-20 left-10 w-4 h-4 rounded-full border-2 border-[#037a76]/20
+src/sections/NonTechnicalEvents.tsx:433:9
+absolute bottom-20 right-10 w-0 h-0 border-l-[15px] border-l-transparent border-r-[15px] border-r-transparent border-b-[25px] border-b-[#037a76]/10 -rotate-12
+src/sections/NonTechnicalEvents.tsx:437:7
+src/sections/Organizers.tsx:10:5
+flex justify-center mt-3
+src/sections/Organizers.tsx:11:7
+inline-flex items-center gap-1.5 px-5 py-2 rounded-lg bg-[#ed1b76] text-white text-sm font-medium hover:bg-[#d9185e] transition-all hover:scale-105 shadow-[0_4px_15px_rgba(237,27,118,0.4)]
+src/sections/Organizers.tsx:15:9
+src/sections/Organizers.tsx:32:5
+bg-[#FFD700]/5 border-2 border-[#FFD700]/60 hover:shadow-[0_20px_40px_rgba(255,215,0,0.3)]
+bg-white/5 border-2 border-[#ed1b76]/40 hover:shadow-[0_20px_40px_rgba(237,27,118,0.3)]
+src/sections/Organizers.tsx:41:7
+src/sections/Organizers.tsx:42:9
+w-[180px] h-[180px] border-[3px] border-[#FFD700]/60 bg-gradient-to-br from-[#2A2A2A] to-[#1A1A1A]
+w-[150px] h-[150px] border-[3px] border-[#ed1b76]/40 bg-gradient-to-br from-[#2A2A2A] to-[#1A1A1A]
+src/sections/Organizers.tsx:49:11
+text-[56px] text-[#FFD700]
+text-[48px] text-[#ed1b76]
+src/sections/Organizers.tsx:60:7
+font-heading text-xl sm:text-2xl text-white tracking-wider mb-2
+src/sections/Organizers.tsx:66:9
+font-body text-base font-medium text-[#FFD700] text-lg mb-1
+src/sections/Organizers.tsx:73:9
+font-body text-base font-medium text-[#ed1b76] mb-1
+src/sections/Organizers.tsx:79:7
+font-body text-sm text-white/50
+src/sections/Organizers.tsx:95:5
+relative bg-white/5 border-2 border-[#037a76]/40 rounded-2xl p-8 text-center transition-all duration-300 hover:-translate-y-2.5 hover:border-[#FFD700] hover:shadow-[0_20px_40px_rgba(3,122,118,0.4)] backdrop-blur-[10px] group
+src/sections/Organizers.tsx:100:7
+absolute top-4 right-4 bg-[#037a76] text-white font-mono text-lg font-bold px-3.5 py-2 rounded-lg shadow-[0_4px_12px_rgba(3,122,118,0.4)]
+src/sections/Organizers.tsx:105:7
+src/sections/Organizers.tsx:106:9
+w-[130px] h-[130px] mx-auto rounded-full border-[3px] border-[#037a76]/60 overflow-hidden relative bg-gradient-to-br from-[#037a76] to-[#025e5b] flex items-center justify-center shadow-[0_0_20px_rgba(3,122,118,0.3)]
+src/sections/Organizers.tsx:107:11
+font-display text-[42px] text-white select-none
+src/sections/Organizers.tsx:114:7
+font-heading text-xl sm:text-2xl text-white tracking-wider mb-2 uppercase
+src/sections/Organizers.tsx:119:7
+font-body text-sm text-[#249f9c] font-medium
+src/sections/Organizers.tsx:135:5
+relative bg-white/[0.05] border-2 border-[#ed1b76] rounded-2xl p-8 text-center transition-all duration-300 hover:-translate-y-2.5 hover:shadow-[0_20px_40px_rgba(237,27,118,0.4)] backdrop-blur-[10px] group
+src/sections/Organizers.tsx:140:7
+absolute top-4 right-4 bg-[#ed1b76] text-white font-mono text-lg font-bold px-3.5 py-2 rounded-lg shadow-[0_4px_12px_rgba(237,27,118,0.4)]
+src/sections/Organizers.tsx:145:7
+src/sections/Organizers.tsx:146:9
+w-[130px] h-[130px] mx-auto rounded-full border-[3px] border-[#ed1b76]/60 overflow-hidden relative bg-gradient-to-br from-[#2A2A2A] to-[#1A1A1A] flex items-center justify-center shadow-[0_0_20px_rgba(237,27,118,0.3)]
+src/sections/Organizers.tsx:147:11
+font-display text-[42px] text-[#ed1b76] select-none
+src/sections/Organizers.tsx:154:7
+src/sections/Organizers.tsx:159:7
+font-body text-sm text-[#ed1b76] font-medium
+src/sections/Organizers.tsx:162:7
+font-body text-sm text-white/50 mt-1 italic
+src/sections/Organizers.tsx:188:5
+bg-white/[0.03] border-[#ed1b76]/30
+bg-white/[0.03] border-[#037a76]/30
+src/sections/Organizers.tsx:195:7
+hover:bg-[#ed1b76]/10
+hover:bg-[#037a76]/10
+src/sections/Organizers.tsx:201:9
+text-3xl flex-shrink-0
+src/sections/Organizers.tsx:202:9
+src/sections/Organizers.tsx:203:11
+font-heading text-lg sm:text-xl text-white tracking-wider
+src/sections/Organizers.tsx:204:11
+text-xs text-white/40 mt-0.5
+src/sections/Organizers.tsx:206:9
+src/sections/Organizers.tsx:213:7
+max-h-[600px] opacity-100
+src/sections/Organizers.tsx:218:9
+src/sections/Organizers.tsx:220:13
+bg-white/5 border-[#ed1b76]/20
+bg-white/5 border-[#037a76]/20
+src/sections/Organizers.tsx:228:15
+src/sections/Organizers.tsx:229:17
+font-heading text-lg text-white tracking-wide
+src/sections/Organizers.tsx:230:17
+font-mono text-sm text-white/50 mt-1
+src/sections/Organizers.tsx:231:17
+Station-Based Tech Escape
+BREACH HUNTERS: TRACEBACK
+Digital Forensics Investigation
+Dice-Based Technical Challenge
+Fast-Paced Cricket Tournament
+Zone Dominators Tournament
+src/sections/Organizers.tsx:361:5
+src/sections/Organizers.tsx:368:7
+src/sections/Organizers.tsx:369:9
+radial-gradient(circle at 2px 2px, #037a76 1px, transparent 0)
+src/sections/Organizers.tsx:378:7
+src/sections/Organizers.tsx:380:9
+src/sections/Organizers.tsx:385:11
+font-mono-custom text-xs sm:text-sm text-[#FFD700] tracking-widest mb-3 sm:mb-4
+src/sections/Organizers.tsx:388:11
+src/sections/Organizers.tsx:389:24
+src/sections/Organizers.tsx:391:11
+font-body text-sm sm:text-base md:text-lg text-white/60 mt-2 leading-[1.6]
+Meet the Team Behind REVOITZ 4.0
+src/sections/Organizers.tsx:399:9
+src/sections/Organizers.tsx:404:11
+font-heading text-2xl sm:text-3xl md:text-4xl text-[#ed1b76] text-center tracking-[4px] uppercase mb-10 sm:mb-14
+src/sections/Organizers.tsx:407:11
+grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 sm:gap-10 max-w-[1200px] mx-auto
+src/sections/Organizers.tsx:409:15
+src/sections/Organizers.tsx:417:9
+src/sections/Organizers.tsx:422:11
+font-heading text-2xl sm:text-3xl md:text-4xl text-[#037a76] text-center tracking-[4px] uppercase mb-10 sm:mb-14
+src/sections/Organizers.tsx:425:11
+grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8 max-w-[1400px] mx-auto
+src/sections/Organizers.tsx:427:15
+src/sections/Organizers.tsx:435:9
+src/sections/Organizers.tsx:440:11
+OVERALL EVENT COORDINATORS
+src/sections/Organizers.tsx:443:11
+grid grid-cols-1 sm:grid-cols-2 gap-10 max-w-[900px] mx-auto
+src/sections/Organizers.tsx:445:15
+src/sections/Organizers.tsx:453:9
+src/sections/Organizers.tsx:458:11
+font-heading text-2xl sm:text-3xl md:text-4xl text-[#FFD700] text-center tracking-[4px] uppercase mb-10 sm:mb-14
+EVENT COORDINATORS CONTACT
+src/sections/Organizers.tsx:463:11
+font-heading text-xl sm:text-2xl md:text-3xl text-[#ed1b76] text-center tracking-[3px] uppercase mb-6 sm:mb-8
+src/sections/Organizers.tsx:467:13
+src/sections/Organizers.tsx:480:11
+font-heading text-xl sm:text-2xl md:text-3xl text-[#037a76] text-center tracking-[3px] uppercase mt-12 mb-6 sm:mb-8
+src/sections/Organizers.tsx:484:13
+src/sections/Organizers.tsx:499:7
+absolute top-20 right-10 w-4 h-4 bg-[#FFD700]/20 rotate-45
+src/sections/Organizers.tsx:500:7
+absolute bottom-20 left-10 w-3 h-3 rounded-full border border-[#ed1b76]/20
+March 1, 2026 23:59:59
+src/sections/Registration.tsx:33:5
+flex items-center justify-center gap-4 text-center
+src/sections/Registration.tsx:34:7
+src/sections/Registration.tsx:35:9
+font-mono-custom text-3xl text-[#ed1b76]
+src/sections/Registration.tsx:36:9
+src/sections/Registration.tsx:38:7
+text-2xl text-white/30
+src/sections/Registration.tsx:39:7
+src/sections/Registration.tsx:40:9
+src/sections/Registration.tsx:43:9
+src/sections/Registration.tsx:45:7
+src/sections/Registration.tsx:46:7
+src/sections/Registration.tsx:47:9
+src/sections/Registration.tsx:50:9
+src/sections/Registration.tsx:66:5
+src/sections/Registration.tsx:72:7
+glass-pink hover:glow-pink
+glass-green hover:glow-green
+src/sections/Registration.tsx:78:9
+flex items-center justify-between mb-3
+src/sections/Registration.tsx:79:11
+bg-[#ed1b76]/20 text-[#ed1b76]
+bg-[#037a76]/20 text-[#037a76]
+src/sections/Registration.tsx:88:11
+font-mono-custom text-xs text-white/40
+src/sections/Registration.tsx:92:9
+font-display text-lg text-white tracking-wider mb-1
+src/sections/Registration.tsx:93:9
+font-heading text-xs text-white/50 mb-3
+src/sections/Registration.tsx:96:9
+src/sections/Registration.tsx:97:11
+flex items-center gap-2 text-xs text-white/60
+src/sections/Registration.tsx:98:13
+src/sections/Registration.tsx:99:13
+src/sections/Registration.tsx:101:11
+src/sections/Registration.tsx:102:13
+src/sections/Registration.tsx:103:13
+src/sections/Registration.tsx:105:11
+src/sections/Registration.tsx:106:13
+src/sections/Registration.tsx:107:13
+src/sections/Registration.tsx:112:9
+flex items-center gap-2 mb-4
+src/sections/Registration.tsx:113:11
+relative flex h-2 w-2
+src/sections/Registration.tsx:114:13
+animate-ping absolute inline-flex h-full w-full rounded-full bg-[#037a76] opacity-75
+src/sections/Registration.tsx:115:13
+relative inline-flex rounded-full h-2 w-2 bg-[#037a76]
+src/sections/Registration.tsx:117:11
+text-xs text-[#037a76]
+src/sections/Registration.tsx:121:9
+src/sections/Registration.tsx:132:11
+src/sections/Registration.tsx:163:5
+src/sections/Registration.tsx:170:7
+src/sections/Registration.tsx:171:9
+linear-gradient(90deg, #ed1b76 1px, transparent 1px), linear-gradient(#037a76 1px, transparent 1px)
+src/sections/Registration.tsx:180:7
+src/sections/Registration.tsx:182:9
+src/sections/Registration.tsx:187:11
+src/sections/Registration.tsx:190:11
+src/sections/Registration.tsx:191:26
+src/sections/Registration.tsx:193:11
+src/sections/Registration.tsx:197:9
+src/sections/Registration.tsx:202:11
+glass rounded-xl p-6 text-center
+src/sections/Registration.tsx:203:13
+font-mono-custom text-xs text-white/50 mb-4 tracking-widest
+src/sections/Registration.tsx:206:13
+src/sections/Registration.tsx:211:9
+src/sections/Registration.tsx:216:11
+src/sections/Registration.tsx:217:13
+font-display text-sm text-[#FFD700] tracking-wider mb-4 flex items-center gap-2
+src/sections/Registration.tsx:218:15
+REGISTRATION INSTRUCTIONS
+src/sections/Registration.tsx:221:13
+src/sections/Registration.tsx:223:17
+src/sections/Registration.tsx:224:19
+text-[#037a76] mt-0.5
+src/sections/Registration.tsx:233:9
+src/sections/Registration.tsx:238:11
+font-display text-xl text-white tracking-wider text-center mb-6
+src/sections/Registration.tsx:241:11
+grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto
+src/sections/Registration.tsx:243:15
+src/sections/Registration.tsx:249:9
+src/sections/Registration.tsx:254:11
+font-body text-white/60 mb-4
+Have questions about registration? Contact our coordinators!
+src/sections/Registration.tsx:257:11
+inline-flex items-center gap-2 px-6 py-3 rounded-full border border-[#ed1b76]/40 text-[#ed1b76] font-display text-sm tracking-wider transition-all duration-300 hover:bg-[#ed1b76] hover:text-white
+src/sections/Registration.tsx:269:13
+src/sections/Registration.tsx:275:7
+absolute top-20 left-10 w-4 h-4 bg-[#ed1b76]/20 rotate-45
+src/sections/Registration.tsx:276:7
+absolute bottom-20 right-10 w-3 h-3 rounded-full border border-[#037a76]/20
+src/sections/Contact.tsx:34:5
+linear-gradient(to bottom, rgba(15,15,15,0.97), rgba(5,5,8,0.99))
+src/sections/Contact.tsx:41:7
+relative z-10 w-full px-4 sm:px-6 md:px-8 lg:px-12 py-16 sm:py-24 md:py-36
+src/sections/Contact.tsx:43:9
+src/sections/Contact.tsx:48:11
+font-mono-custom text-xs sm:text-sm text-[#ed1b76] tracking-widest mb-3 sm:mb-4
+src/sections/Contact.tsx:51:11
+src/sections/Contact.tsx:57:9
+grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-10 md:gap-12 max-w-6xl mx-auto mb-12 sm:mb-16 md:mb-20
+src/sections/Contact.tsx:59:11
+src/sections/Contact.tsx:64:13
+src/sections/Contact.tsx:65:15
+font-display text-lg text-white tracking-wider mb-8
+src/sections/Contact.tsx:69:15
+src/sections/Contact.tsx:71:17
+flex items-start gap-4
+src/sections/Contact.tsx:72:19
+w-10 h-10 rounded-full bg-[#ed1b76]/10 flex items-center justify-center flex-shrink-0
+src/sections/Contact.tsx:73:21
+w-5 h-5 text-[#ed1b76]
+src/sections/Contact.tsx:75:19
+src/sections/Contact.tsx:76:21
+text-sm text-white/90 font-medium
+src/sections/Contact.tsx:77:21
+src/sections/Contact.tsx:78:21
+V68C+G55, Old Mamallapuram Road, SH 49A
+src/sections/Contact.tsx:79:21
+src/sections/Contact.tsx:80:21
+src/sections/Contact.tsx:88:11
+src/sections/Contact.tsx:93:13
+glass rounded-xl overflow-hidden h-full min-h-[300px]
+src/sections/Contact.tsx:94:15
+https://maps.google.com/maps?q=Jeppiaar+Engineering+College,+Semmancheri,+Chennai&t=&z=15&ie=UTF8&iwloc=&output=embed
+Jeppiaar Engineering College Location
+src/sections/Contact.tsx:108:9
+src/sections/Contact.tsx:113:11
+src/sections/Contact.tsx:114:13
+grid grid-cols-2 md:grid-cols-4 gap-6
+src/sections/Contact.tsx:116:15
+src/sections/Contact.tsx:117:17
+src/sections/Contact.tsx:120:17
+src/sections/Contact.tsx:123:23
+src/sections/Contact.tsx:124:25
+text-sm text-white/60 hover:text-white transition-colors
+src/sections/Contact.tsx:137:15
+src/sections/Contact.tsx:138:17
+src/sections/Contact.tsx:141:17
+src/sections/Contact.tsx:143:21
+src/sections/Contact.tsx:144:23
+text-sm text-white/60 cursor-pointer hover:text-white transition-colors
+src/sections/Contact.tsx:153:15
+src/sections/Contact.tsx:154:17
+font-display text-sm text-[#FFD700] tracking-wider mb-3
+src/sections/Contact.tsx:157:17
+src/sections/Contact.tsx:159:21
+src/sections/Contact.tsx:160:23
+src/sections/Contact.tsx:169:15
+flex flex-col items-center justify-center
+src/sections/Contact.tsx:170:17
+w-16 h-16 rounded-full bg-gradient-to-br from-[#ed1b76] to-[#ff0096] flex items-center justify-center text-white hover:shadow-[0_0_30px_rgba(237,27,118,0.5)] transition-all duration-300 hover:scale-110
+src/sections/Contact.tsx:174:19
+src/sections/Contact.tsx:176:17
+text-xs text-white/40 mt-2
+src/sections/Contact.tsx:184:7
+relative z-10 bg-[#050508] border-t border-white/5
+src/sections/Contact.tsx:185:9
+w-full px-4 md:px-8 lg:px-12 py-6
+src/sections/Contact.tsx:186:11
+flex flex-col md:flex-row items-center justify-between gap-4
+src/sections/Contact.tsx:188:13
+src/sections/Contact.tsx:189:15
+w-10 h-10 rounded-full bg-gradient-to-br from-[#ed1b76] to-[#ff0096] flex items-center justify-center border-2 border-[#FFD700] opacity-80
+src/sections/Contact.tsx:190:17
+font-display text-lg text-white
+src/sections/Contact.tsx:192:15
+font-display text-lg text-white/80 tracking-wider
+src/sections/Contact.tsx:198:13
+src/sections/Contact.tsx:199:15
+text-sm text-white/60
+© 2026 REVOITZ 4.0 | Department of IT, JEC
+src/sections/Contact.tsx:202:15
+text-xs text-white/40
+Designed & Developed with ❤️ by IT Department
+src/sections/Contact.tsx:208:13
+flex items-center gap-4
+src/sections/Contact.tsx:210:17
+text-xs text-white/40 hover:text-white/60 cursor-pointer transition-colors
+src/sections/Contact.tsx:223:7
+absolute top-20 right-10 w-4 h-4 bg-[#ed1b76]/10 rotate-45
+src/sections/Contact.tsx:224:7
+absolute bottom-40 left-10 w-3 h-3 rounded-full border border-[#037a76]/20
+width=device-width, initial-scale=1.0
+relative w-full min-h-screen
