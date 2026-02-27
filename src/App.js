@@ -1,23 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import Hero from './components/Hero';
+import TechnicalEvents from './components/TechnicalEvents';
+import NonTechnicalEvents from './components/NonTechnicalEvents';
+import EventModal from './components/EventModal';
+import Footer from './components/Footer';
+import './index.css';
 
 function App() {
+  const [selectedEvent, setSelectedEvent] = useState(null);
+
+  const handleEventClick = (event) => {
+    setSelectedEvent(event);
+    document.body.style.overflow = 'hidden';
+  };
+
+  const closeEventModal = () => {
+    setSelectedEvent(null);
+    document.body.style.overflow = 'auto';
+  };
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Hero />
+      <main>
+        <TechnicalEvents onEventClick={handleEventClick} />
+        <NonTechnicalEvents onEventClick={handleEventClick} />
+      </main>
+      <Footer />
+      {selectedEvent && (
+        <EventModal event={selectedEvent} onClose={closeEventModal} />
+      )}
     </div>
   );
 }
