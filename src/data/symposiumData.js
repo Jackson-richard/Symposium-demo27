@@ -1,7 +1,6 @@
-// Revoitz 5.0 Data
-// Fight Club Theme: 
-// - Technical: Edward (The Narrator) - Analytical, introspective, systematic.
-// - Non-Technical: Tyler Durden - Rebellious, chaotic, visceral.
+
+
+
 
 export const eventDetails = {
     general: {
