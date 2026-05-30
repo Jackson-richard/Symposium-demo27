@@ -225,7 +225,6 @@ a:hover {
 
 .story-col-2:hover .character-box-wrapper img {
   transform: scale(1.05);
-  /* Interactive cinematic zoom on hover */
 }
 
 /* Adding subtle inner gradients to the boxes so they don't look completely flat */
