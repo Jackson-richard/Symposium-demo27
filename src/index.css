@@ -47,7 +47,6 @@ a:hover {
   color: #ff3b3b;
 }
 
-/* Animations */
 @keyframes fadeIn {
   from {
     opacity: 0;
