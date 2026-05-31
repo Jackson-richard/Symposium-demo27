@@ -11,7 +11,6 @@ const NonTechnicalEvents = ({ onEventClick }) => {
 
             <div className="story-layout" style={{ flexDirection: 'row-reverse' }}>
                 <div className="story-col-1 tyler-theme">
-                    {/* Wallpaper & Overlays */}
                     <img src={tylerWallpaper} alt="Tyler Wallpaper" className="tyler-wallpaper" />
                     <div className="tyler-overlay"></div>
 
