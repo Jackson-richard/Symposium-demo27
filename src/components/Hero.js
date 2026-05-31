@@ -9,7 +9,6 @@ const Hero = () => {
     const [glitchActive, setGlitchActive] = useState(false);
 
     useEffect(() => {
-        // Random glitch effect trigger
         const interval = setInterval(() => {
             setGlitchActive(true);
             setTimeout(() => setGlitchActive(false), 200);
