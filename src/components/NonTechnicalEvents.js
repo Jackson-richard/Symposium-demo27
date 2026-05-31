@@ -24,7 +24,6 @@ const NonTechnicalEvents = ({ onEventClick }) => {
                 </div>
 
                 <div className="story-col-2" style={{ flexDirection: 'row', gap: '2rem' }}>
-                    {/* Dedicated Character Container Box */}
                     <div className="character-box-wrapper fade-in">
                         <img src={tylerPortrait} alt="Tyler Container Portrait" />
                         <div className="cutout-vignette"></div>
