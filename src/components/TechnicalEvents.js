@@ -15,7 +15,6 @@ const TechnicalEvents = ({ onEventClick }) => {
             </div>
 
             <div className="story-layout">
-                {/* COLUMN 1: DESCRIPTION (Edward Wallpaper) */}
                 <div className="story-col-1 edward-theme">
                     {/* Wallpaper & Overlays */}
                     <img src={edwardWallpaper} alt="Edward Wallpaper" className="edward-wallpaper" />
