@@ -23,7 +23,6 @@ const NonTechnicalEvents = ({ onEventClick }) => {
                     </div>
                 </div>
 
-                {/* COLUMN 2: EVENTS & CHARACTER BOX */}
                 <div className="story-col-2" style={{ flexDirection: 'row', gap: '2rem' }}>
                     {/* Dedicated Character Container Box */}
                     <div className="character-box-wrapper fade-in">
