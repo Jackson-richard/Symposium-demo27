@@ -10,7 +10,6 @@ const NonTechnicalEvents = ({ onEventClick }) => {
         <section id="non-technical" className="section container" style={{ borderTop: '1px solid var(--border-dim)' }}>
 
             <div className="story-layout" style={{ flexDirection: 'row-reverse' }}>
-                {/* COLUMN 1: DESCRIPTION (Tyler Wallpaper) */}
                 <div className="story-col-1 tyler-theme">
                     {/* Wallpaper & Overlays */}
                     <img src={tylerWallpaper} alt="Tyler Wallpaper" className="tyler-wallpaper" />
