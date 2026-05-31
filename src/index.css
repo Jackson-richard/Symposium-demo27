@@ -285,7 +285,6 @@ a:hover {
   box-shadow: 0 0 15px var(--accent-red-dim);
 }
 
-/* Base structural classes */
 .edward-theme {
   border-left: 4px solid var(--text-muted);
   background: rgba(255, 255, 255, 0.02);
