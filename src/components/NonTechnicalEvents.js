@@ -14,7 +14,6 @@ const NonTechnicalEvents = ({ onEventClick }) => {
                     <img src={tylerWallpaper} alt="Tyler Wallpaper" className="tyler-wallpaper" />
                     <div className="tyler-overlay"></div>
 
-                    {/* Content */}
                     <div className="content-z" style={{ textAlign: 'right' }}>
                         <h2 style={{ fontSize: '3rem', color: 'var(--accent-red)', marginBottom: '1.5rem' }}>{data.voice}</h2>
                         <p style={{ fontSize: '1.2rem', lineHeight: '1.8', color: 'var(--text-main)', textAlign: 'left' }}>
