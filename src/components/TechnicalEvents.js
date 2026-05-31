@@ -27,7 +27,6 @@ const TechnicalEvents = ({ onEventClick }) => {
                     </div>
                 </div>
 
-                {/* COLUMN 2: EVENTS & CHARACTER BOX */}
                 <div className="story-col-2" style={{ flexDirection: 'row', gap: '2rem' }}>
                     <div className="col-2-grid" style={{ flex: 1 }}>
                         {data.events.map((event, idx) => (
