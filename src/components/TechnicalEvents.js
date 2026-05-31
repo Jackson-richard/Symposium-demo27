@@ -18,8 +18,6 @@ const TechnicalEvents = ({ onEventClick }) => {
                 <div className="story-col-1 edward-theme">
                     <img src={edwardWallpaper} alt="Edward Wallpaper" className="edward-wallpaper" />
                     <div className="edward-overlay"></div>
-
-                    {/* Content */}
                     <div className="content-z">
                         <h2 style={{ fontSize: '3rem', color: 'var(--text-muted)', marginBottom: '1.5rem' }}>{data.voice}</h2>
                         <p style={{ fontSize: '1.2rem', lineHeight: '1.8', color: 'var(--text-main)' }}>
