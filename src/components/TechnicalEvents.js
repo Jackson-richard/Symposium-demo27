@@ -69,7 +69,6 @@ const TechnicalEvents = ({ onEventClick }) => {
                         ))}
                     </div>
 
-                    {/* Dedicated Character Container Box */}
                     <div className="character-box-wrapper fade-in">
                         <img src={edwardPortrait} alt="Edward Container Portrait" />
                         <div className="cutout-vignette"></div>
