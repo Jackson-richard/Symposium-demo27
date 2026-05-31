@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { eventDetails } from '../data/symposiumData';
-import './Hero.css'; // We'll add some specific hero styles
+import './Hero.css'; 
 import togetherImg from '../assets/images/together-intro.jpg';
 import edwardPortrait from '../assets/images/edward-sunglasses.jpg';
 import tylerPortrait from '../assets/images/tyler-pointing.jpg';
