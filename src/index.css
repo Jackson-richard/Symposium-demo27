@@ -190,7 +190,6 @@ a:hover {
   z-index: 1;
 }
 
-/* Strict Character Container Boxes (Replaces float overlays) */
 .character-box-wrapper {
   flex: 0 0 320px;
   position: sticky;
