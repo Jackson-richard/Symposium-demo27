@@ -206,7 +206,6 @@ a:hover {
 @media (max-width: 991px) {
   .character-box-wrapper {
     display: none;
-    /* Hide on small screens to prioritize text */
   }
 }
 
