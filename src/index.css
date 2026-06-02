@@ -222,7 +222,6 @@ a:hover {
   transform: scale(1.05);
 }
 
-/* Adding subtle inner gradients to the boxes so they don't look completely flat */
 .cutout-vignette {
   position: absolute;
   top: 0;
